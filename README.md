@@ -4,7 +4,7 @@
 
 **Dataset and source code for paper "NovBench: Evaluating Large Language Models on Academic Paper Novelty Assessment".**
 The pipeline for constructing NovBench.<br>
-[Figure1.pdf](https://github.com/user-attachments/files/24422549/Figure1.pdf)
+![image]imageimageimagimaimi(https://github.com/user-attachments/files/24
 
 
 ## Dataset
