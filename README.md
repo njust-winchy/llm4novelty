@@ -12,8 +12,8 @@ The raw data and calculated data can be obtained from here (We will provide it a
 ## Directory structure
 
 <pre>
-review_quality                                    Root directory
-├── claim_tagging                                 Code for claim tagging model
+NovBench                                    Root directory
+├── .............                           Code for ..
 │
 └── README.md
 </pre>
