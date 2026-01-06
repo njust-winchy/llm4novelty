@@ -74,8 +74,11 @@ System environment is set up according to the following configuration:
 ## Acknowledgement
 
 The datasets we use come from Yuan et al.（2022）(https://github.com/neulab/ReviewAdvisor), Dycke et al.（2023）(https://github.com/UKPLab/nlpeer) and Lu et al. (2025) (https://github.com/UKPLab/emnlp2025-aspects-in-reviews)
+
 >Yuan, W., Liu, P., & Neubig, G. (2022). Can we automate scientific reviewing?. Journal of Artificial Intelligence Research, 75, 171-212.<br>
+
 >Nils Dycke, Ilia Kuznetsov, and Iryna Gurevych. 2023. NLPeer: A Unified Resource for the Computational Study of Peer Review. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 5049–5073, Toronto, Canada. Association for Computational Linguistics.<br>
+
 >Sheng Lu, Ilia Kuznetsov, and Iryna Gurevych. 2025. Identifying Aspects in Peer Reviews. In Findings of the Association for Computational Linguistics: EMNLP 2025, pages 6145–6167, Suzhou, China. Association for Computational Linguistics.<br>
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
