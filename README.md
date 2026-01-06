@@ -18,10 +18,10 @@ NovBench                                      Root directory
 │   ├── data_process                          Code for data processing
 │   │   ├── COLING_Paper_process.py           Code for processing COLING data
 │   │   ├── data2exps.py                      Code for processing final data
-│   │   ├── EMNLP_data_process.py             Code for processing EMNLP data
-│   │   ├── EMNLP_introduction_data_save.py   Code for processing EMNLP data
-│   │   ├── output_format.py                  Code for processing EMNLP data
-│   │   ├── rev_inrto_nov_identification.py   Code for processing EMNLP data
+│   │   ├── EMNLP_data_process.py             Code for processing EMNLP data to get introduction
+│   │   ├── EMNLP_introduction_data_save.py   Code for spliting EMNLP' introduction and review text to sentences
+│   │   ├── output_format.py                  Code for processing EMNLP data to format based on sentiment distribution
+│   │   ├── rev_inrto_nov_identification.py   Code for processing EMNLP data to obtain novelty descriptions in the introduction and novelty evaluation in the review text
 │   ├── LLM_novelty_generate                  Code for novelty generate experiment
 │   │   ├── API_model_zero.py                 Code for Closed-source LLMs to generate novelty assessment
 │   │   ├── API_model_few.py                  Code for Closed-source LLMs to generate novelty assessment
@@ -39,10 +39,18 @@ NovBench                                      Root directory
 │   │   ├── few_shot.py                       Code for Open-source LLMs to generate novelty assessment
 │   │   ├── RAG_prompt.py                     Code for Open-source LLMs to generate novelty assessment
 │   ├── Novelty_sentence_review               Code for experiment
-│   │   ├── LLM4nov_sentence.py               Code for
+│   │   ├── LLM4nov_sentence.py               Testing LLMs for identifying novelty descriptions in the introduction
+│   │   ├── LLM4Novelty.py                    Testing LLM for identifying novelty evaluation in the review text
+│   │   ├── RAG.py                            Code for rag prompt in LLM4Novelty
+│   │   ├── RAG_retrieve.py                   Code for rag prompt in LLM4Novelty
 │   ├── comment_evaluate.py                   Code for evaluate the novelty assessment generation
 │   ├── human_sample.py                       Code for human evaluation sample selection
 ├── data                                      Dataset for experiment
+│   ├── COLING_labeled_data.csv               Novelty description in the CONLING's introduction annotated by humans
+│   ├── Final_data.json                       Dataset for LLMs generate novelty assessment
+│   ├── non_novelty_data.json                 Dataset for testing LLM for identifying novelty evaluation in the review text
+│   ├── novelty_data.json                     Dataset for testing LLM for identifying novelty evaluation in the review text
+│   ├── novelty_Yuan.json                     Data for RAG in LLM4Novelty
 │
 └── README.md
 
