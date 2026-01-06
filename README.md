@@ -14,7 +14,15 @@ The raw data and calculated data can be obtained from here (We will provide it a
 
 <pre>
 NovBench                                    Root directory
-├── .............                           Code for ..
+├── code                                    Code for processing and experiment
+│   ├── data_process                        Code for data processing
+│   ├── LLM_novelty_generate                Code for novelty generate experiment
+│   │   ├── API_model_zero.py                  Code for 
+│   ├── Novelty_sentence_review             Code for experiment
+│   │   ├── LLM4nov_sentence.py                Code for
+│   ├── comment_evaluate.py                    Code for evaluate the novelty assessment generation
+│   ├── human_sample.py                        Code for human evaluation sample selection
+├── data                                    Dataset for experiment
 │
 └── README.md
 
