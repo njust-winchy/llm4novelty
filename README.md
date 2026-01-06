@@ -73,7 +73,7 @@ System environment is set up according to the following configuration:
 - scientific-information-change
 ## Acknowledgement
 
-The datasets we use come from Yuan et al.（2022）(https://github.com/neulab/ReviewAdvisor), Dycke et al.（2023）(https://github.com/UKPLab/nlpeer) and Lu et al. (2025) (https://github.com/UKPLab/emnlp2025-aspects-in-reviews)
+The datasets we used come from Yuan et al.（2022）(https://github.com/neulab/ReviewAdvisor), Dycke et al.（2023）(https://github.com/UKPLab/nlpeer) and Lu et al. (2025) (https://github.com/UKPLab/emnlp2025-aspects-in-reviews)
 
 >Yuan, W., Liu, P., & Neubig, G. (2022). Can we automate scientific reviewing?. Journal of Artificial Intelligence Research, 75, 171-212.<br>
 
