@@ -1,0 +1,1974 @@
+[
+  [
+    "This work claims to firstly propose a publicly available large-scale Chinese metaphor dataset, and will publish the data and code.",
+    "NOVELTY"
+  ],
+  [
+    "(1) The paper introduces a novel approach for training trainable agents to simulate specific individuals, which is a step closer to character simulacra.",
+    "NOVELTY"
+  ],
+  [
+    "The novel approach showcases tangible efficacy without introducing additional parameters.",
+    "NOVELTY"
+  ],
+  [
+    "Technically, the applied approaches are not novel techniques and the main novelty is applying them to solve a multitask learning problem.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed methods are not very novel.",
+    "NOVELTY"
+  ],
+  [
+    "It seems to try to make the proposed methods more complex to increase the novelty, but it is unknown if this complex way of prompting is necessary (see the next point).",
+    "NOVELTY"
+  ],
+  [
+    "The technical novelty of this paper is limited.",
+    "NOVELTY"
+  ],
+  [
+    "But it is a minor issue for an empirical study paper.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty is limited and the motivation is not strong.",
+    "NOVELTY"
+  ],
+  [
+    "While the execution is great, the novelty of this work is disputable as most of the ideas and conclusions could be synthesized from existing works.",
+    "NOVELTY"
+  ],
+  [
+    "- the proposed approach is novel;\r\n- the paper is well written;\r\n\r\n- the BLEU scores reported in Table 1 are very low, so it may not be very clear how much the BLEU improvements really imply;",
+    "NOVELTY"
+  ],
+  [
+    "- Although using GNNs over word alignments to improve the quality of representations has been proposed before (imani-etal-2022-graph), using it in an end-to-end fashion in an MNMT model is novel and could be used more in the community.",
+    "NOVELTY"
+  ],
+  [
+    "While much of the authors' concerns re model editing seem reasonable, it is unclear what exactly they have identified or are proposing that is novel.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed CRaSh strategy is novel and interesting, and the authors present compelling evidence of its effectiveness in improving the performance of OFT with billions of parameters.",
+    "NOVELTY"
+  ],
+  [
+    "The authors have constructed multi-session dialogues based on 10 pre-defined relationships between speakers, which presents a novel and intriguing approach.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty and the contributions of the paper are very well justified.",
+    "NOVELTY"
+  ],
+  [
+    "Leveraging the connections of Pre-LayerNorm transformer networks to ODEs for reducing inference latency by dynamically scaling step sizes is, to the best of my knowledge, novel and of practical utility.",
+    "NOVELTY"
+  ],
+  [
+    "Proposes a novel approach by combining ideas from active learning and human-AI collaboration.",
+    "NOVELTY"
+  ],
+  [
+    "The problem is timely and the solution is novel.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed method has limited novelty and appears incremental compared to HMCEval.",
+    "NOVELTY"
+  ],
+  [
+    "Some might argue that the approach lacks overall novelty, but I feel that this is outweighed by the quality of some of the results.",
+    "NOVELTY"
+  ],
+  [
+    "The authors propose a novel approach to transform non-autoregressive generation into a step-by-step denoising process, utilizing the denoising ability of a multilingual pre-trained understanding model for implementation.",
+    "NOVELTY"
+  ],
+  [
+    "\u2022The author proposed an effective model for the fake news detection task and verified its effectiveness on the public test set \r\n\r\n\u2022The motivation stated in the abstract is not solid enough, and the method proposed in the paper is not novel enough.",
+    "NOVELTY"
+  ],
+  [
+    "The strengths of this paper include the introduction of a novel regularization term for character based language representation model, Nonparametric Variational Information Bottleneck (NVIB), that can learn to compress to different levels of abstraction at different layers of the same model, resulting in a more linguistically informed and robust model.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed training objectives and iterative training process are both novel and intuitive.",
+    "NOVELTY"
+  ],
+  [
+    "It seems the RL part of the work is largely based on the cited work Rainier, which limits the novelty of the work.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty of the methods is limited, for example, the methods (e.g. InfoNCE) used in this paper are relatively mature technologies in other fields.",
+    "NOVELTY"
+  ],
+  [
+    "The novelties of the proposed methods are not strong.",
+    "NOVELTY"
+  ],
+  [
+    "Entropy-guided token extraction is a novel way to build a global memory.",
+    "NOVELTY"
+  ],
+  [
+    "* Novelty: The new paradigm for zero-shot text classification is interesting and novel based on my knowledge.",
+    "NOVELTY"
+  ],
+  [
+    "This is a new attempt aiming to leverage generic label descriptions to boost zero-shot performance.",
+    "NOVELTY"
+  ],
+  [
+    "The authors are encouraged to discuss the proposed side block compared to existing PEFT methods (e.g., LoRA) to justify its novelty.",
+    "NOVELTY"
+  ],
+  [
+    "Providing a novel approach to address issues with existing parsing approaches and demonstrating the effectiveness and flexibility of the proposed framework through empirical studies.",
+    "NOVELTY"
+  ],
+  [
+    "The paper presents a new framework for dialog discourse parsing, with several interesting novel ideas including a self-supervision objective between top-down and bottom-up approaches and a soft window mask.",
+    "NOVELTY"
+  ],
+  [
+    "The scene graph-based pseudo-labeling approach is novel and is shown to outperform previous pseudo-labeling methods on standard datasets.",
+    "NOVELTY"
+  ],
+  [
+    "Novel approach: The paper proposes an unsupervised method USPL for pixel-level sound source localization.",
+    "NOVELTY"
+  ],
+  [
+    "To my knowledge, the task of Unsupervised Sounding Pixel Learning (USPL) is first explored by this paper.",
+    "NOVELTY"
+  ],
+  [
+    "This is a novel, interesting and challenging task which may attract more researchers.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed Sounding Map Refinement (SMR) module is novel and reasonable to me.",
+    "NOVELTY"
+  ],
+  [
+    "Since instruction based tuning has been explored in many works, the novelty at this point can be limited.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty is limited due to the scope of the idea.",
+    "NOVELTY"
+  ],
+  [
+    "Consequently, the novelty is restricted by the commonly referred method and the limitations of the particular task.",
+    "NOVELTY"
+  ],
+  [
+    "1.This paper introduces two novel approaches, DetectLLM-LRR and DetectLLM-NPR, for detecting machine-generated text.",
+    "NOVELTY"
+  ],
+  [
+    "1) The newly proposed task is both novel and useful.",
+    "NOVELTY"
+  ],
+  [
+    "The second of these contributions mainly follows an ideological approach that has been used for a long time in the NLP community, and the main innovativeness is focused on the first contribution.",
+    "NOVELTY"
+  ],
+  [
+    "The only baseline is a single-task baseline, and as the MTL set-up is not really novel, the results are not surprising (as it has been well-established that MTL improves peformance).",
+    "NOVELTY"
+  ],
+  [
+    "The novelty seems a bit limited.",
+    "NOVELTY"
+  ],
+  [
+    "For their designs, their optimization objective looks novel and interesting, combing and adapting existing work's key designs to their approach.",
+    "NOVELTY"
+  ],
+  [
+    "This paper proposes a novel prompt tuning approach, that is, automatically selecting several layers to insert instance-dependent soft prompts.",
+    "NOVELTY"
+  ],
+  [
+    "Given the emergent of cutting-edge large language models and their decent in-context performance, the technique proposed in this paper seems to be redundant and outdated.",
+    "NOVELTY"
+  ],
+  [
+    "The decision of Weak as opposed to a Strong accept is because the submission does not introduce anything truly novel, but simply points out observations and offers a recommended training strategy.",
+    "NOVELTY"
+  ],
+  [
+    "I do, however, have a slight concern about the novelty of this result.",
+    "NOVELTY"
+  ],
+  [
+    "I\u2019d personally want to see a more expanded related work section that goes into some more depth into some of these papers, to be able to better judge the novelty of this contribution.",
+    "NOVELTY"
+  ],
+  [
+    "Further, the main claim to novelty of this second result is that it tests the information bottleneck principle in a \u2018language learning\u2019 set-up.",
+    "NOVELTY"
+  ],
+  [
+    "Nevertheless this work presents a novel method towards code generation.",
+    "NOVELTY"
+  ],
+  [
+    "While the path-based encoding scheme is indeed a powerful model that intuitively encapsulates and generalizes over most previous approaches (Section 7), applying the model to a different task without significant task-specific adaptation or in-depth analysis might not sound technically novel.",
+    "NOVELTY"
+  ],
+  [
+    "### Novelty ###\r\n\r\nThis paper proposes incremental domain adaptation, which is inspired by Li & Hoiem's work.",
+    "NOVELTY"
+  ],
+  [
+    "Thus, the problem setting provides some novelty.",
+    "NOVELTY"
+  ],
+  [
+    "Decision: despite the seeming unfair comparison, this task is novel.",
+    "NOVELTY"
+  ],
+  [
+    "While the neural generator is the same as prior work, the main novelty is the reranker design, which is a binary classifier that takes a pair of natural language utterance/logical form, and predicts the similarity between them.",
+    "NOVELTY"
+  ],
+  [
+    "Although the idea of reranking is not new in the semantic parsing community, with the most recent work [1] already shows the promise of this direction, the concrete approach described in this paper is different, seems simple yet effective.",
+    "NOVELTY"
+  ],
+  [
+    "Cons:\r\n- While the replication study is well appreciated, the novelty contribution of the paper is marginally incremental as the model structure is largely unchanged from BERT.",
+    "NOVELTY"
+  ],
+  [
+    "However, I am not sure if the paper presents a case of adequate novelty in terms of ideas as many of them are rather obvious and the current state-of-the-art models could also improve considerably using similar experimental setups, which authors also acknowledged in footnote 2.",
+    "NOVELTY"
+  ],
+  [
+    "The main weakness of the paper is that it is mainly based on further tuning the existing BERT model and lacks novel contribution in model architecture.",
+    "NOVELTY"
+  ],
+  [
+    "Weaknesses:\r\n- The paper lacks significant technical novelty.",
+    "NOVELTY"
+  ],
+  [
+    "Empirical experiments could use a bit more rigor in terms of disentangling the major factors that contribute to performance (e.g typo noise)\r\n\r\n\r\n\r\nOther comments:\r\n1.",
+    "NOVELTY"
+  ],
+  [
+    "It seems like the main claimed novelty of the paper is the proposed CMSA method.",
+    "NOVELTY"
+  ],
+  [
+    "The idea seems original and well executed but I think the experimental section could be improved.",
+    "NOVELTY"
+  ],
+  [
+    "The idea is good and novel.",
+    "NOVELTY"
+  ],
+  [
+    "As far as I know, this is indeed the first work for handling this task using binding-unbinding mechanism.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty is very limited.",
+    "NOVELTY"
+  ],
+  [
+    "This is the first paper, to the best of my knowledge, showing the efficacy of model extraction of large pretrained language models using rubbish/nonsensical inputs.",
+    "NOVELTY"
+  ],
+  [
+    "This authors introduce a novel approach to successful modern extraction.",
+    "NOVELTY"
+  ],
+  [
+    "This paper is technically not very novel, but asks interesting questions.",
+    "NOVELTY"
+  ],
+  [
+    "My main concerns are the following:\r\n\r\n- Representing words by distributions is not a novel idea; it was previously done by Brazinskas et al. (2017): Embedding words as distributions with a bayesian skip-gram model (BSG).",
+    "NOVELTY"
+  ],
+  [
+    "The novelty of the proposed method is incremental over Dinan et al.",
+    "NOVELTY"
+  ],
+  [
+    "For novelty, this is an extension of KERMIT to a multilingual version, which limits the novelty of this wok.",
+    "NOVELTY"
+  ],
+  [
+    "* Limited novelty: This paper extends Chan et al. 's KERMIT by applying its objective on tasks with more than 2 sequences, in order to learn the joint distribution p(channel_1, ..., channel_k) over k channel sequences.",
+    "NOVELTY"
+  ],
+  [
+    "Therefore, the idea itself is not so novel and innovative.",
+    "NOVELTY"
+  ],
+  [
+    "The paper lacks technical novelty other than the training and test data generation approach, but having one available to the community with these apparently desirable characteristics as benchmark data for measuring complex, compositional generalization capabilities, and that could be invaluable to the research community.",
+    "NOVELTY"
+  ],
+  [
+    "The approach is novel.",
+    "NOVELTY"
+  ],
+  [
+    "In particular, the claim is that the novelty is from the use of a \"discriminative, multi-modal grounding objective\".",
+    "NOVELTY"
+  ],
+  [
+    "Is that the novel objective?",
+    "NOVELTY"
+  ],
+  [
+    "Nevertheless, I am not convinced that there is enough novelty and substance on this, I have some concerns on the evaluation, and I think that the overall presentation should also be improved:\r\n\r\n- I am not convinced by the \"knowledge distillation\" approach.",
+    "NOVELTY"
+  ],
+  [
+    "Findings, methods and experiments are not strongly novel.",
+    "NOVELTY"
+  ],
+  [
+    "About type dependency graph:\r\n1) Comparing to previous work (e.g, Allamanis et.al, ICLR 18), it seems the construction of the task specific graph is the major contribution, where the novelty is a bit limited.",
+    "NOVELTY"
+  ],
+  [
+    "It would be helpful to see comparative discussion with respect to those methods and a clear statement of novelty with respect to such prior work:\r\n[R1] M. Burke, S. Penkov, S. Ramamoorthy, From explanation to synthesis: Compositional program induction for learning from demonstration, Robotics: Science and Systems (R:SS), 2019.",
+    "NOVELTY"
+  ],
+  [
+    "Overall, this paper presents a novel contribution to reinforcement learning with augmented memory/world-state.",
+    "NOVELTY"
+  ],
+  [
+    "The paper is very well written, especially the introduction section, demonstrating novelty in the context of fictional games literature, and showing good empirical results.",
+    "NOVELTY"
+  ],
+  [
+    "So it is hard for me to fairly assess how novel this work is.",
+    "NOVELTY"
+  ],
+  [
+    "Additionally the use of multi-source word embeddings is novel too, especially in the joint setting with the topic model transfer.",
+    "NOVELTY"
+  ],
+  [
+    "This can be good as much as it can be bad, in that it could be going off-track.",
+    "NOVELTY"
+  ],
+  [
+    "Yes humans have high novelty, but high novelty in itself isn't necessarily good.",
+    "NOVELTY"
+  ],
+  [
+    "I don't find the argument that have more novel ngrams is intrinsically, necessarily good, compelling.",
+    "NOVELTY"
+  ],
+  [
+    "The major drawback of the paper is a lack of novelty - the Go-Explore algorithm is already well known, and this paper seems to be a direct application of Go-Explore to text-based games.",
+    "NOVELTY"
+  ],
+  [
+    "While the results are both impressive and relevant for the text-game-playing community - it's my feeling that this work may not be of general interest to the broader ICLR community due to the lack of new insights in deep learning / representation discovery.",
+    "NOVELTY"
+  ],
+  [
+    "While the results are promising, there might be limited novelty beyond training a sequence to sequence model on pre-collected trajectories.",
+    "NOVELTY"
+  ],
+  [
+    "From this perspective, there is not much novelty in this paper.",
+    "NOVELTY"
+  ],
+  [
+    "Weaknesses:\r\n\r\n(1) Novelty: The biggest concern that I have is its technical novelty.",
+    "NOVELTY"
+  ],
+  [
+    "So, I would say the novelty is indeed limited.",
+    "NOVELTY"
+  ],
+  [
+    "Originality: The distillation approach and curricula are novel.",
+    "NOVELTY"
+  ],
+  [
+    "Even though there is not that novel method proposed, the overall message found from the experiments, their interpretation by the authors, and meaningful comparisons to the past works in emergent communication are fair enough to learn high scientific values from it.",
+    "NOVELTY"
+  ],
+  [
+    "Each network branch is from known structures, but the combination is not proposed before.",
+    "NOVELTY"
+  ],
+  [
+    "I don't think there's significant novelty here: all the components are existing and combining them seems very trivial to me.",
+    "NOVELTY"
+  ],
+  [
+    "Overall I feel that this is a potentially interesting paper, addressing an important question in a novel way, but I found the current version a highly-frustrating read (and I read the paper carefully a number of times); in fact, so frustrating that it is hard for me to recommend acceptance in its current form.",
+    "NOVELTY"
+  ],
+  [
+    "I believe a better discussion of these methods should be added to the paper, as this is not a novel proposition.",
+    "NOVELTY"
+  ],
+  [
+    "I do have concerns for this paper around utility and novelty.",
+    "NOVELTY"
+  ],
+  [
+    "As the paper mentions, it has already been shown that iterated learning procedures give rise to more compositional languages in non-neural models.",
+    "NOVELTY"
+  ],
+  [
+    "One of the main novelties with respect to previous text-to-clip models is the use of co-attention schemes at the level of words and frames.",
+    "NOVELTY"
+  ],
+  [
+    "However, the idea of co-attention at different grain-levels have been proposed before.",
+    "NOVELTY"
+  ],
+  [
+    "The overall novelty of the proposed methods is limited.",
+    "NOVELTY"
+  ],
+  [
+    "So in this way, the novelty is only marginal.",
+    "NOVELTY"
+  ],
+  [
+    "The paper proposes a novel sparse network architecture to learn word embeddings more effectively.",
+    "NOVELTY"
+  ],
+  [
+    "Weaknesses:\r\n\r\n* In my opinion, the paper novelty is not significant enough.",
+    "NOVELTY"
+  ],
+  [
+    "But although useful, the suggested methods are not novel enough.",
+    "NOVELTY"
+  ],
+  [
+    "Novel idea, clear explanation of the method and the tensor factorization scheme.",
+    "NOVELTY"
+  ],
+  [
+    "Some major concerns: \r\n1) The bidirectional gated GNN doesn\u2019t seem novel enough in comparison to previous work\r\n2) I believe RL to Graph2Seq is a minor extension from Seq2Seq, since RL mostly deals with the decoder part which is common in across both Graph2Seq and Seq2Seq\r\n\r\n\r\nArguments:\r\n\r\n1) Adding the structure information to the encoder via the GNNs is an interesting angle for question generation.",
+    "NOVELTY"
+  ],
+  [
+    "The idea of generating passage graph is novel.",
+    "NOVELTY"
+  ],
+  [
+    "I reckon this is a very interesting piece of work, but also that it draws too heavily on previous work from which the study is just an incremntal extension.",
+    "NOVELTY"
+  ],
+  [
+    "However, I think the relative novelty of the paper does not meet ICLR standards, and it\u2019s better suited as a whitepaper attached to an open dataset release.",
+    "NOVELTY"
+  ],
+  [
+    "The paper proposed a novel attention mechanism and a new objective function that mitigates the distribution shifts caused by masked tokens for downstream tasks in MLM.",
+    "NOVELTY"
+  ],
+  [
+    "My major concern is about the novelty of this paper.",
+    "NOVELTY"
+  ],
+  [
+    "And also the introduction of novel objectives in addition to the attention mechanism.",
+    "NOVELTY"
+  ],
+  [
+    "The authors\u2019 approach to a well-posed question seem original to me.",
+    "NOVELTY"
+  ],
+  [
+    "Using Transformer attention maps for protein contact prediction is not new.",
+    "NOVELTY"
+  ],
+  [
+    "This is not new (see Rives 2020 and Vig 2020) and does not fit well to the rest of the paper, which is about contact prediction.",
+    "NOVELTY"
+  ],
+  [
+    "Section 4.8: Using transformers for generating proteins with natural properties is not new (see Madani et al, 2020, \u2018ProGen\u2019 or Rives et al, 2020).",
+    "NOVELTY"
+  ],
+  [
+    "**Score justification**\r\nIn its current form the paper presents interesting analyses, but has overall limited novelty.",
+    "NOVELTY"
+  ],
+  [
+    "The existence of previous language model-based contact prediction methods reduces the novelty of this work, especially given that the model used here is from Rives et al. 2019, who already look at contact prediction.",
+    "NOVELTY"
+  ],
+  [
+    "- The non-autoregressive (NA) text generator have been well studied recently so the novelty of this work is more on the integration of NA generator with adversarial training.",
+    "NOVELTY"
+  ],
+  [
+    "The idea itself is not novel.",
+    "NOVELTY"
+  ],
+  [
+    "Compared to the related work, the novel part of this work is: (i) a new retrieval way, which is not quite clear and convincing to me.",
+    "NOVELTY"
+  ],
+  [
+    "(ii) a new way to aggregate multiple inputs (using M-BERT) and several different decoding methods.",
+    "NOVELTY"
+  ],
+  [
+    "Basically, none of them is novel.",
+    "NOVELTY"
+  ],
+  [
+    "- In late 2020, what is the novelty of using a multilingual BERT when encoding source sentences and retrieved TM sentences?",
+    "NOVELTY"
+  ],
+  [
+    "Overall, I don't see any of these so-called contributions are truly technically original.",
+    "NOVELTY"
+  ],
+  [
+    "******\r\nReasons for score:\r\nThe novelty of this paper is basically none.",
+    "NOVELTY"
+  ],
+  [
+    "The experimental results are limited and the comparison with prior work is none, which cannot fully demonstrate the effectiveness of the proposed method.",
+    "NOVELTY"
+  ],
+  [
+    "MODELLING:\r\nEach of the three components on the method (retrieval, encoding, and decoding) introduces some novelty.",
+    "NOVELTY"
+  ],
+  [
+    "However, unfortunately, both components are not novel to me.",
+    "NOVELTY"
+  ],
+  [
+    "1) The idea of HIRE model is very similar to utilizing ELMo in down-stream tasks, where the hidden representations of each layer are weighted.",
+    "NOVELTY"
+  ],
+  [
+    "2) The central part of the fusion network utilizes a concatenation scheme of [A;B;A+B;A*B], which is also a widely used approach, similar to Chen et al.",
+    "NOVELTY"
+  ],
+  [
+    "Besides the novelty of the proposed components, the experiments are also not well-designed.",
+    "NOVELTY"
+  ],
+  [
+    "Considering the novelty and generalizability of the proposed method, I recommend rejection for this paper.",
+    "NOVELTY"
+  ],
+  [
+    "The design of the components is not novel.",
+    "NOVELTY"
+  ],
+  [
+    "- **Method for promoting novelty**.",
+    "NOVELTY"
+  ],
+  [
+    "It's unclear why this specific method (renormalizing over the novel set) is the best or simplest method for promoting novelty.",
+    "NOVELTY"
+  ],
+  [
+    "The work isn't terribly novel, but it's still interesting.",
+    "NOVELTY"
+  ],
+  [
+    "The claim of the contribution, \u201cthe combination of CWS and subword tokenization is novel.\u201d, is quite weak.",
+    "NOVELTY"
+  ],
+  [
+    "The paper proposes several interesting and novel ways to improve the pretrained model in Chinese.",
+    "NOVELTY"
+  ],
+  [
+    "Because the paper proposes a novel technique to work with Chinese characters, one more thing that the paper lacks is to mention and compare with recent works on Chinese language model pretrain and techniques to deal with Chinese vocab.",
+    "NOVELTY"
+  ],
+  [
+    "Compared with these works, this paper is somewhat incremental and lacks novelty.",
+    "NOVELTY"
+  ],
+  [
+    "The methods are somewhat lack of novelty.",
+    "NOVELTY"
+  ],
+  [
+    "Overall, I continue to maintain that this is a good paper with novel ideas that are well-justified by experimental results and analyses, and would like to reiterate that I believe that this work is a clear accept.",
+    "NOVELTY"
+  ],
+  [
+    "The main contribution are the following innovations: a special attention mechanism called block-diagonal conditional attention, a set of modules for adaptation of a pretrained model, and an uncertainty-based multi-task data sampling method.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n- The unsupervised matching approach for extracting triples is quite novel and, to my knowledge, the first evidence that the attention maps of pretrained transformers contain paths which capture relational knowledge.",
+    "NOVELTY"
+  ],
+  [
+    "- The idea of looking into the pooled attention weights for linking entities and relations is novel.",
+    "NOVELTY"
+  ],
+  [
+    "- It would help to explicitly mention the neural modules previously defined and the novel modules, eg how the \u201cfind\u201d module differs from Kottur et al. - Have the authors experimented with the dialog-based modules from Kottur et al.",
+    "NOVELTY"
+  ],
+  [
+    "Detailed comments are listed in the following\r\n\u2022 The novelity of the NMN is limited in this paper.",
+    "NOVELTY"
+  ],
+  [
+    "Originality: \r\nThe SCL is not novel because it comes from computer vision but this is the first paper I have seen that successfully applies SCL in NLP tasks.",
+    "NOVELTY"
+  ],
+  [
+    "In addition, although it is novel to apply supervised contrastive learning for NLP applications, the impact of these results is also limited because the experimental results are not directly comparable with previous work.",
+    "NOVELTY"
+  ],
+  [
+    "The general idea is novel and very interesting.",
+    "NOVELTY"
+  ],
+  [
+    "Pros:\r\n - A novel and interesting idea for formulating structured prediction tasks to translation problems.",
+    "NOVELTY"
+  ],
+  [
+    "Weakness:\r\n\r\n- Lack of novelty, the contrastive regularization object is a bit incremental, and this object is very similar to MoCo or SupCon.",
+    "NOVELTY"
+  ],
+  [
+    "- As far as I know, the idea of using eigendecomposition of FIM to differentiate between easy and difficult examples for NLP applications is novel.",
+    "NOVELTY"
+  ],
+  [
+    "While, the result is interesting it is only a marginal contribution with little novelty in my opinion.",
+    "NOVELTY"
+  ],
+  [
+    "However, I doubt the novelty and machine learning contribution of this paper: 1) The different routing strategies are natural and seems to have already been proposed by previous works.",
+    "NOVELTY"
+  ],
+  [
+    "Cons:\r\n- The general idea is not novel.",
+    "NOVELTY"
+  ],
+  [
+    "The idea of learning which parameters to share across languages in multilingual transformer models is original and potentially useful for designing and analyzing multilingual models in the context of NMT.",
+    "NOVELTY"
+  ],
+  [
+    "**Weaknesses**: \r\n\r\n(1) Even though it is the first time such a method is applied in the context of NMT, the idea is not as much novel in the broader context of deep learning.",
+    "NOVELTY"
+  ],
+  [
+    "Although compared with other speedup training methods like ELECTRA [1], the idea of this paper is not novel.",
+    "NOVELTY"
+  ],
+  [
+    "My biggest concern is from the originality and significance.",
+    "NOVELTY"
+  ],
+  [
+    "It looks to me the approach that the paper proposed is a very straightforward extension from the work of (Gong et al., 2019).",
+    "NOVELTY"
+  ],
+  [
+    "However, if the author could discuss/explains why this change affects the convergence speed in analytical/mathematical solution, that would definitely gives more credit to originality and significance.",
+    "NOVELTY"
+  ],
+  [
+    "If I understand correctly, the main novelty of this paper is proposing the losses (Eq. 3) in the section of contrastive visual representation learning from text.",
+    "NOVELTY"
+  ],
+  [
+    "However those losses are well-known in the domain of image-text retrieval.",
+    "NOVELTY"
+  ],
+  [
+    "The author might also need to re-state the novelty contribution of this paper.",
+    "NOVELTY"
+  ],
+  [
+    "#####################   Weakensses   #################### \r\n\r\n(1) The paper is limited in its novelty borrowing ideas from some previous works: (i) contrastive learning [1][2] and (ii) image-text representations pretraining [3].",
+    "NOVELTY"
+  ],
+  [
+    "So, I think this paper is novel to some extent, but not that novel, since it mainly makes some incremental contribution by combining ideas from existing work.",
+    "NOVELTY"
+  ],
+  [
+    "Explicit modeling the generation order is not a very novel idea that there have been many works on this topic.",
+    "NOVELTY"
+  ],
+  [
+    "The research on non-autoregressive orders to generate language is interesting, and the proposed method using Gumbel-Sinkorn distribution is mathematically well sound and novel.",
+    "NOVELTY"
+  ],
+  [
+    "Novelty and related work.",
+    "NOVELTY"
+  ],
+  [
+    "A major issue of this work lies in the novelty with respect to HOI-GAN, which is used as a baseline but not discussed in the related work section, plus the comments above make the paper a nice contribution but just marginally above the threshold.",
+    "NOVELTY"
+  ],
+  [
+    "The methods employed: graph neural network and optical flow based video generation not all that original, the contributions are in the Action Graph and the combination and application of known techniques (albeit seemingly well chosen for the CATER dataset).",
+    "NOVELTY"
+  ],
+  [
+    "So for the benefit of the quality of the paper, I suggest dropping all theoretical results as they are not new.",
+    "NOVELTY"
+  ],
+  [
+    "(I think the paper is novel and useful enough in itself, but it would be helpful to see a side-by-side comparison).",
+    "NOVELTY"
+  ],
+  [
+    "This paper presents a novel MCTS-based policy improvement operator called MC-LAVE designed specifically for environments with text-based action spaces.",
+    "NOVELTY"
+  ],
+  [
+    "Summary:\r\n\r\nThe paper provides a novel pretrained language model for document understanding named BROS, which adds spatial layout information and new area-masking strategy.",
+    "NOVELTY"
+  ],
+  [
+    "It is hard to tell what are the standalone contributions of the paper, and what is coming from other works.",
+    "NOVELTY"
+  ],
+  [
+    "However, the area-masking strategy does not show significant improvement over the LayoutLM and the graph decoder is proposed in SPADE which is not new.",
+    "NOVELTY"
+  ],
+  [
+    "Even if those details were present, I don\u2019t think it is necessarily sufficiently novel for ICLR.",
+    "NOVELTY"
+  ],
+  [
+    "Regarding novelty, I think the paper would need to flesh out either contributions (2) or (3) to really find a home at a venue like ICLR.",
+    "NOVELTY"
+  ],
+  [
+    "(2) is an interesting idea, but right now we have one extrinsic test of the idea - I think a fully fleshed out version would need to compare to baselines and also provide intrinsic evaluations that compare to other \u201cground truth\u201d definitions of similarity, such as the historical definition used in this paper.",
+    "NOVELTY"
+  ],
+  [
+    "Although the individual components are similar to previous work, they are combined in a novel way that shows a path toward longer and more efficient context lengths.",
+    "NOVELTY"
+  ],
+  [
+    "Reasons for Score\r\n-----------------\r\nThe idea proposed in the paper is novel and exciting, but I have some concerns about whether the gains promised by the theoretical analysis can be realized while maintaining modeling quality.",
+    "NOVELTY"
+  ],
+  [
+    "### Strengths\r\n\r\n- Using sampling to approximate self-attention is novel and promising.",
+    "NOVELTY"
+  ],
+  [
+    "Originality\r\n\r\nI don't closely follow the relevant literature and can't speak confidently on the originality of the model.",
+    "NOVELTY"
+  ],
+  [
+    "This article proposes a novel approach integrating language throughout the visual pathway for segmenting objects according to referring expressions.",
+    "NOVELTY"
+  ],
+  [
+    "This raises a flag on the novelty of the work and completeness of the related work.",
+    "NOVELTY"
+  ],
+  [
+    "I believe the novelty and contribution are rather thin because many ways of the modeling language are not explored at all.",
+    "NOVELTY"
+  ],
+  [
+    "This idea is novel and interesting to me, and the derivation and experiment results look encouraging.",
+    "NOVELTY"
+  ],
+  [
+    "It is very novel and interesting that the authors try to understand the training of MLM by analyzing the relation gradient variance and masking scheme.",
+    "NOVELTY"
+  ],
+  [
+    "The paper does not appear to be novel.",
+    "NOVELTY"
+  ],
+  [
+    "Perhaps the biggest reason is I can\u2019t seem to understand what is novel about the system.",
+    "NOVELTY"
+  ],
+  [
+    "That is, unless I\u2019ve just missed something, it seems that all of the core components of N-Bref are lifted from prior work with perhaps some minor augmentation.",
+    "NOVELTY"
+  ],
+  [
+    "This feels largely incremental to me.",
+    "NOVELTY"
+  ],
+  [
+    "On the other hand, one could argue that N-Bref is novel because it combines a number of existing components in a unique way to achieve better performance that prior work.",
+    "NOVELTY"
+  ],
+  [
+    "I can see this perspective.",
+    "NOVELTY"
+  ],
+  [
+    "Edit after seeing others reviews -- I think I gave this paper a MUCH higher score than the other reviewers, simply because it is very novel with Fon language.",
+    "NOVELTY"
+  ],
+  [
+    "I agree with all of your points about what is lacking, but in my mind, the novelty was enough to still give a 7.",
+    "NOVELTY"
+  ],
+  [
+    "Especially, in terms novelty, the paper is relatively limited as the RF is explored in Rawat et al., 19.",
+    "NOVELTY"
+  ],
+  [
+    "I give an \"accept\" to this work because of its novelty and contribution (see pros below).",
+    "NOVELTY"
+  ],
+  [
+    "Note that replacement with semantically equivalent words has been explored: http://sameersingh.org/files/papers/sears-acl18.pdf\r\n\r\n- There are some vague statements about the novelty vs previous work by Tang et al, but no explicit statement made in the model description.",
+    "NOVELTY"
+  ],
+  [
+    "Application of counterfactual along with utilization of syntax structures for long-tailed IE is novel and aptly motivating.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty of the paper seems to be in application of the counterfactual analysis to address the long-tailed IE issues, which might be interesting to the IE researchers.",
+    "NOVELTY"
+  ],
+  [
+    "Overall, more theory about the counterfactual generation for IE task should be added, for this is what the novelty of the paper; also, for the rebalancing learning for slide effect and counterfactual, the theory appears to be not enough.",
+    "NOVELTY"
+  ],
+  [
+    "Results are shown on both discriminative and generative common sense datasets\r\n\r\n#### Novelty and clarity\r\nThe training procedure of corrupting inputs to retrieve outputs is not new but the use on commonsense tasks does seem novel and also is an interesting approach.",
+    "NOVELTY"
+  ],
+  [
+    "Summary: This paper proposes a novel approach for training a Transformer model to predict program invariant.",
+    "NOVELTY"
+  ],
+  [
+    "This is a novel idea that uses code with correct if conditions to guess the invariants for code that has the conditions missing.",
+    "NOVELTY"
+  ],
+  [
+    "Novel weighting scheme for SVD for low-rank weight compression (though should double check this more thoroughly).",
+    "NOVELTY"
+  ],
+  [
+    "The applicability and the novelty of the SCS representation seem limited.",
+    "NOVELTY"
+  ],
+  [
+    "Weakness \r\n- The main weakness of the paper in my opinion is the lack of novelty.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed method in my opinion is very similar to the previous works like [1], which proposed to use predictions from previous time stamps for self-distillation, and [2], which also proposed a method for adaptive label smoothing based on predictions from previous time stamps.",
+    "NOVELTY"
+  ],
+  [
+    "While the authors of the paper addressed the key difference between the proposed method and [1], I do still feel that the proposed method lack novelty, despite good improvements in performance.",
+    "NOVELTY"
+  ],
+  [
+    "But it is still somewhat novel since it is applied to new domains.",
+    "NOVELTY"
+  ],
+  [
+    "Also, the observations made are marginally novel or significant, there are not many new results compared to prior observations.",
+    "NOVELTY"
+  ],
+  [
+    "Hence, the paper lacks novelty.",
+    "NOVELTY"
+  ],
+  [
+    "While the work might be suitable perhaps as a workshop, the level of novelty for ICLR is definitely not met.",
+    "NOVELTY"
+  ],
+  [
+    "The paper proposes an adaptive label smoothing method, which is novel to some extent.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n- The method is novel and brings knowledge of reinforcement learning to the challenges of NLP.",
+    "NOVELTY"
+  ],
+  [
+    "This is straightforward and not new to the NLP generation community.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty and technical contribution are truly limited.",
+    "NOVELTY"
+  ],
+  [
+    "Therefore, it is hard to see the shining points.",
+    "NOVELTY"
+  ],
+  [
+    "The concept of fact units is interesting and novel which are easily constructed via dependency trees.",
+    "NOVELTY"
+  ],
+  [
+    "I am not entirely convinced whether this is a very novel approach.",
+    "NOVELTY"
+  ],
+  [
+    "Time and time again, modeling innovations are proposed which ultimately get beaten by a better-tuned baseline down the line.",
+    "NOVELTY"
+  ],
+  [
+    "This makes it hard to place their approach in comparison with prior work thus making it hard to understand the novelty of the approach.",
+    "NOVELTY"
+  ],
+  [
+    "Weaknesses: \r\n1) compare with [1], the research questions and the corresponding conclusions of this work are not enough novel and attractive.",
+    "NOVELTY"
+  ],
+  [
+    "- Little novelty \r\n\r\nWhile their experiments, and findings are interesting, it leaves many questions that could (at least in principle) be answered by more experiments.",
+    "NOVELTY"
+  ],
+  [
+    "Unlike the other reviewers, I do not see the \"lack of novelty\" as an issue of this work.",
+    "NOVELTY"
+  ],
+  [
+    "First, it should present a novel view on the problem, and second, it should draw a novel conclusion out of the experiments.",
+    "NOVELTY"
+  ],
+  [
+    "The paper presents a novel way of combining information from text and a KB in a bidirectional way.",
+    "NOVELTY"
+  ],
+  [
+    "Weaknesses:\r\n\r\n- The connection between importance sampling based distillation and REINFORCE was introduced in in the DPG paper, and from this perspective, adding a baseline is a straightforward exercise, and lower in novelty.",
+    "NOVELTY"
+  ],
+  [
+    "* Strength\r\n    * This paper proposes an interesting idea and interpretation to connect RM and DM paradigm\r\n    * This paper proposes a variance reduction method for DPG which demonstrates its improvement on performance, stability and sample efficiency\r\n* Weakness\r\n    * From my understanding, the baseline mostly comes from the observation in 3.3, which has limited technical novelty.",
+    "NOVELTY"
+  ],
+  [
+    "It will be great if authors can justify more on the technical novelty.",
+    "NOVELTY"
+  ],
+  [
+    "The proposal training strategy is novel and interesting, and has the potential to become the standard practice for training transformers.",
+    "NOVELTY"
+  ],
+  [
+    "* To my knowledge, this is the first work that leverages both expert sparsity and parameter offloading to train a model of unprecedented scale, which is an important engineering achievement if it was indeed executed succesfully.",
+    "NOVELTY"
+  ],
+  [
+    "This paper proposed two novel energy parametrizations and introduces Metropolis-Hasting sampling to text generation based on MLM models.",
+    "NOVELTY"
+  ],
+  [
+    "The strengths of the paper is its technical novelty and rigor as well as its thorough experimental studies.",
+    "NOVELTY"
+  ],
+  [
+    "The idea of using prompt-tuning for life-long language learning is a promising direction and the methods proposed in the paper constitute a novel and effective way in bridging the gap between these 2 methodologies.",
+    "NOVELTY"
+  ],
+  [
+    "\r\n=================================\r\nStrengths:\r\n  - Combining lifelong and few-shot learning is a new setting.",
+    "NOVELTY"
+  ],
+  [
+    "Thus, the contributions of this paper are marginally novel/ significant.",
+    "NOVELTY"
+  ],
+  [
+    "There are a few concerns remaining, as listed below:\r\n\r\na) on modelling novelty: the novel components are only a) the sampling strategy in exploitation phase and b) the two-phase pipeline.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty of XTX is clearly elaborated.",
+    "NOVELTY"
+  ],
+  [
+    "This paper is clearly written, has a working original idea, and provides a great new option for entity linking that has empirical promise.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n - The paper is generally well-written, with excellent motivation and empirical setup/analysis\r\n - The overall strategy of differentiable prompt optimized to maintain fluency is reasonable and novel.",
+    "NOVELTY"
+  ],
+  [
+    "- the proposed technical module of learning an affordance-aware semantic representation is valid, reasonable, and somewhat novel.",
+    "NOVELTY"
+  ],
+  [
+    "- though there are some novel designs for the affordance learning part, there are previous works (Qi et al, 2019, and Nagarajan & Grauman, 2020) that have proposed the essential ideas, and I don't see too much difference other than adding some heuristics-derived waypoint definitions.",
+    "NOVELTY"
+  ],
+  [
+    "However, with it being a great experimental report, my main concern is regarding the limited technical novelty of the work besides the two proposed simple variants (DAL-E derived from DAL-T, and RCA-smoothed derived from RCA, and all other are existing AL methods).",
+    "NOVELTY"
+  ],
+  [
+    "The proposed idea is novel: the CMOW model can only be used in sentence-level tasks.",
+    "NOVELTY"
+  ],
+  [
+    "In terms of novelty, SeqPATE has several non-trivial changes compared to the classical PATE.",
+    "NOVELTY"
+  ],
+  [
+    "#### Strength\r\n- This paper provides novel and interesting insights to the language emergence analysis by introducing the concepts of expressivity, context complexity and unpredictability.",
+    "NOVELTY"
+  ],
+  [
+    "The idea of applying contrastive loss is not particularly novel.",
+    "NOVELTY"
+  ],
+  [
+    "- The paper studies the usage of contrastive loss in referential games and this loss helps alleviate the collapse of message types in language games which is interesting and novel.",
+    "NOVELTY"
+  ],
+  [
+    "weaknesses\r\n1) Approaches are straightforward and lack originality.",
+    "NOVELTY"
+  ],
+  [
+    "## Strengths\r\n- The environment is novel and provides a good basis for studying certain traits of continuous-channel referential games.",
+    "NOVELTY"
+  ],
+  [
+    "While I appreciate the environment introduced and believe it to be promising, the experiments presented fail to highlight the novelty of the environment.",
+    "NOVELTY"
+  ],
+  [
+    "- Technical Novelty and Significance: 3\r\n- Empirical Novelty and Significance: 1\r\n\r\n## Questions\r\n_What_ is unique about the environment has been presented well, so my primary question is _how_ is it unique?",
+    "NOVELTY"
+  ],
+  [
+    "The novelty may be limited by only adding a critic value function on the top of the existing work.",
+    "NOVELTY"
+  ],
+  [
+    "If that is the case, what is the novelty of the proposed method?",
+    "NOVELTY"
+  ],
+  [
+    "The proposed method is reasonable and moderately novel.",
+    "NOVELTY"
+  ],
+  [
+    "In sum, the proposed method is relatively novel and the idea is reasonable.",
+    "NOVELTY"
+  ],
+  [
+    "The experments are fairly convincing, although it is not entirely surprising that this approach works, and to repeat, the basic idea of extracting additional training data in this way is not entirely new.",
+    "NOVELTY"
+  ],
+  [
+    "The main drawback of this paper is the lack of technique novelty in terms of matching learning.",
+    "NOVELTY"
+  ],
+  [
+    "Neither the tasks nor the results seem extremely novel\r\nor surprising compared with systems like TacticToe and its successors,\r\nbut this is certainly solid and useful work done for Lean.",
+    "NOVELTY"
+  ],
+  [
+    "There is also hardly any improvement of the overclaims (noted also by other reviews) about the technical novelty, claims about comparable slowness of RL setups, etc.",
+    "NOVELTY"
+  ],
+  [
+    "More importantly the PACT methodology is more general; the idea of incorporating diverse auxiliary tasks as a language modeling task by introducing a distinct token for each task is novel.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty in the paper is somewhat lacking.",
+    "NOVELTY"
+  ],
+  [
+    "Concerns around novelty and the multi-task setup was also raised by another reviewer (e7Hg).",
+    "NOVELTY"
+  ],
+  [
+    "Similar idea (interactively editing) is already presented in work[1].",
+    "NOVELTY"
+  ],
+  [
+    "The claim that the within- and between-example is crucial is novel and thought provoking.",
+    "NOVELTY"
+  ],
+  [
+    "**Limited novelties and technical contributions**: although the method seems to be technically sound, the main component is based on ETC, and from my understanding, their technical contribution mainly lies in iterative attention to update the query representations in embedding space.",
+    "NOVELTY"
+  ],
+  [
+    "Updating query representations in embedding spaces instead of actually updating query text for multi-step retrieval&reasoning have been studied in prior work such as Feldman and El-Yaniv (2019) or Das et al. (2019), but those papers are not cited, and I would like to see comparison or discussions on the differences between those studies.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty of the method is somewhat limited.",
+    "NOVELTY"
+  ],
+  [
+    "#### Weaknesses\r\n\r\n- Novelty over Perceiver : Although I find this work quite impressive as it scales linearly with output embedding sizes as well as arbitrary types of outputs, the overall architecture seems incremental compared to Perceiver.",
+    "NOVELTY"
+  ],
+  [
+    "#### Strength\r\n- The idea of perceiver IO is novel and solid -- a general architecture capable of handling general-purpose inputs and outputs across different tasks and modalities.",
+    "NOVELTY"
+  ],
+  [
+    "Strength:\r\n- Somewhat novel reparameterization of the weights.",
+    "NOVELTY"
+  ],
+  [
+    "Weaknesses:\r\n- Very similar to weight norm, so the novelty is limited.",
+    "NOVELTY"
+  ],
+  [
+    "+ The method is extremely simple to implement, yet has (to my knowledge) not been proposed before.",
+    "NOVELTY"
+  ],
+  [
+    "Weakness: The novelty of the paper is limited in my view.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n- Addresses an important and novel area of good prompt generation for LLM tasks\r\n- Approach does not require access to the weights of LLM\r\n- Suggests and implements prompt generator that uses information from the whole repository.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n\r\n- A novel way of generating prompts.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n\r\n(1) The idea of generating training labels for the correct contexts and training a classifier to predict what the correct contexts should be is novel and interesting\r\n\r\n(2) They investigate multiple possible baselines \r\n\r\nWeaknesses:\r\n\r\n(1) Overlap with pretraining data -- Github is not the only source of training data for Codex (https://openai.com/blog/openai-codex/ -- \"OpenAI Codex is a descendant of GPT-3; its training data contains both natural language and billions of lines of source code from publicly available sources, including code in public GitHub repositories\").",
+    "NOVELTY"
+  ],
+  [
+    "The proposed method is novel and neat\r\n2.",
+    "NOVELTY"
+  ],
+  [
+    "**Weaknesses**\r\n\r\n- The proposed method is a combination of the methods of previous works [1] and [2], which limits the technical novelty of the paper.",
+    "NOVELTY"
+  ],
+  [
+    "Though I don\u2019t think previous works have reported this before, either combing sparse and dense retrievers [1] or using rerankers is not new.",
+    "NOVELTY"
+  ],
+  [
+    "This makes the novelty of the work limited.",
+    "NOVELTY"
+  ],
+  [
+    "A lot of attention/space is dedicated to locality and symmetry properties of positional encodings, which from my understanding, isn\u2019t very novel and has been explored in previous work.",
+    "NOVELTY"
+  ],
+  [
+    "- Novelty is low (pruning has been proposed in ColBERTer)\r\n- The experimental comparisons lack rigor (compared models have 60x times less parameters, ColBERTer is not included in the experiments, some models could have been tested with the alignement adaptation)\r\n- No complexity analysis (comparing it to ColBERTv2 or ColBERTer)",
+    "NOVELTY"
+  ],
+  [
+    "However, this paper's gradient projection approach and theoretical analyses are new.",
+    "NOVELTY"
+  ],
+  [
+    "- The idea is novel in the context of soft-prompt tuning, but it has been already explored in multi-task learning and continual learning [1].",
+    "NOVELTY"
+  ],
+  [
+    "The proposed method looks novel and makes much sense.",
+    "NOVELTY"
+  ],
+  [
+    "** On page 1, you say that \"we propose a novel Tensor Train Language Model, as a first attempt to apply tensor networks on language modeling tasks\".",
+    "NOVELTY"
+  ],
+  [
+    "This makes it sound like applying tensor networks, and tensor trains in particular, to language modeling is new.",
+    "NOVELTY"
+  ],
+  [
+    "Applying Tensor Train to RNN is not very new.",
+    "NOVELTY"
+  ],
+  [
+    "Therefore, the novelty of this work is not very high.",
+    "NOVELTY"
+  ],
+  [
+    "**Strengths:**  \r\nAlthough the use of rule sets is quite common in tabular data, its less prevalent in NLP and I don\u2019t recall seeing the construction of rule set classifiers for explaining sequence level tasks before so its quite novel ( though the authors mention Bayesian Rule Lists which is less efficient method ).",
+    "NOVELTY"
+  ],
+  [
+    "Weaknesses:\r\nThere is no contribution/novelty from the modeling/methods side.",
+    "NOVELTY"
+  ],
+  [
+    "Weaknesses: The approach is not new, just discussed and evaluated.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty of this paper is limited.",
+    "NOVELTY"
+  ],
+  [
+    "2) No novel/brand new ideas.",
+    "NOVELTY"
+  ],
+  [
+    "Strength:\r\n- This paper was the first to combine multiple collaborative writing skills together into a language model.",
+    "NOVELTY"
+  ],
+  [
+    "The paper uses a standard ensemble method with limited algorithmic innovations.",
+    "NOVELTY"
+  ],
+  [
+    "Limitation of technical novelty but it may not be a big concern from my perspective.",
+    "NOVELTY"
+  ],
+  [
+    "If these method can also achieve very good results, then I feel that the novelty and effectiveness of DeFo may be challenged.",
+    "NOVELTY"
+  ],
+  [
+    "This is not novel at all with many researchers have thought about this but could not execute the idea because of a lack of resources, higher API costs,  and non-availability of open-source LLMs like PaLM.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty of the paper is limited, since it seems to be a combination of Frozen (Tsimpoukelli et al., 2021) and standard meta-learning approaches to learn the mapping from image representations into language model token space.",
+    "NOVELTY"
+  ],
+  [
+    "Strength:\r\n\r\n+ The main idea of combining soft-prompt tuning and MAML is very straightforward, and novel to some extent.",
+    "NOVELTY"
+  ],
+  [
+    "This does not seem to contain any particular novelty.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed use-case in this work is interesting and novel.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths: \r\n- The proposed approach is novel to my knowledge.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n- To the best of my knowledge, exploring the internal consistency of language models in an unsupervised way is a novel contribution.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed algorithm and approximation seems novel to my knowledge.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n* The Markov Chain perspective on skip connection type models is novel and interesting.",
+    "NOVELTY"
+  ],
+  [
+    "The idea that combining the output of several models using the attention strategy is not novel in deep learning.",
+    "NOVELTY"
+  ],
+  [
+    "It seems the proposed method only applies the techniques to LLM inference and does not have a significant novelty.",
+    "NOVELTY"
+  ],
+  [
+    "The way this paper applies pipeline parallelism is not new compare to previous works.",
+    "NOVELTY"
+  ],
+  [
+    "**Limited technical novelty and incremental empirical gains**.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed distillation loss is standard and by itself is not technically new.",
+    "NOVELTY"
+  ],
+  [
+    "- *Limited novelty*: An application of the Meta-Seq2Seq model from Lake et al. I cannot identify whether there exist an intrinsic modelling novelty brought forward by this work, apart from the design of the oracle function that generates support sets.",
+    "NOVELTY"
+  ],
+  [
+    "This is the observation of the main score Table 2 and is not a novel thing in the learning of the out-of-domain adaptation.",
+    "NOVELTY"
+  ],
+  [
+    "While adapting it to transformer architecture and a new task is not trivial, it does limit the conceptual novelty of the contribution.",
+    "NOVELTY"
+  ],
+  [
+    "This is especially unfortunate, since when novelty is relatively limited, the breadth and impact of empirical results becomes paramount.",
+    "NOVELTY"
+  ],
+  [
+    "* Futhermore, this particular computational relization of Theory of Mind seems new and the evidence points in the direction\r\n\r\n* The idea of the listener giving feedback only in certain circumstances, and using the ground truth caption to do that is interesting and potentially novel.",
+    "NOVELTY"
+  ],
+  [
+    "* (clarity, quality, novelty) The connection between ToM and distractor difficulty isn't very clear, and distractor difficulty isn't very well motivated for studying for its own sake.",
+    "NOVELTY"
+  ],
+  [
+    "* (novelty) This work does not cite [1] even though it is very similar.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed technique is new and interesting.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n- The problem of teaching language models new skills \"on the fly\" is extremely relevant\r\n- The paper has numerous illustrations, which helps to understand the approach and model behavior\r\n- The approach is novel and original\r\n\r\nWeaknesses:\r\n- There are a number of issues with experimental design.",
+    "NOVELTY"
+  ],
+  [
+    "Strengths:\r\n\r\n* Simple technique for assisting the learning of generators and discriminators using a co-operative technique rather than adversarial technique \r\n\r\nWeakness:\r\n\r\n* Several cooperative GAN based augmentation systems have been proposed and the novelty is extremely low.",
+    "NOVELTY"
+  ],
+  [
+    "\r\nStrengths\r\n===\r\n\r\nIncorporating visual background knowledge in a language only model makes a lot of sense and seems novel.",
+    "NOVELTY"
+  ],
+  [
+    "-- The proposed model (esp visual knowledge fusion component) is novel and elegant and simple, which will serve as motivation for following works.",
+    "NOVELTY"
+  ],
+  [
+    "**Weaknesses** \r\nThe decoding strategy itself has limited novelty since sampling strategies (including nucleus sampling) and ranking according to model scores have been previously used for pre-trained LMs albeit not with CoT prompting.",
+    "NOVELTY"
+  ],
+  [
+    "- ******************************Novelty:****************************** The paper is novel in its approach.",
+    "NOVELTY"
+  ],
+  [
+    "-The idea of viewing AR models as EBMs is not novel but the provided formulation is neat and interesting.",
+    "NOVELTY"
+  ],
+  [
+    "But the breakdown into fictional, false and true ontologies is novel and useful, and provides insight into the models\u2019 capabilities.",
+    "NOVELTY"
+  ],
+  [
+    "The architecture presented is one that is original and sophisticated, and in Section 5.1 the authors make a convincing case that its choices are not arbitrary.",
+    "NOVELTY"
+  ],
+  [
+    "While it is not the first paper to use AI to predict olfactory recognition, previous studies have used much simpler models that rely on SMILES encodings of small molecules; I think especially that the attention mechanism learned over the molecular graphs to learn nonbonded interactions strikes me as an important methodological innovation in this study.",
+    "NOVELTY"
+  ],
+  [
+    "*Weaknesses*:\r\n- For an ML conference there seems to be no technical novelty, neither fundamental, nor incremental.",
+    "NOVELTY"
+  ],
+  [
+    "**Novelty**\r\nThe idea of utilizing weak supervision of interleaved patterns is intuitive and convincing.",
+    "NOVELTY"
+  ],
+  [
+    "- While the work represents a significant expenditure of resources, the amount of technical novelty is relatively low, and some of the new aspects in the construction of the model itself are not studied or described as much as they could be:\r\n  - The \\textsc{BigPython} dataset seems responsible for much of the gains in the work, but the description of it in the paper is limited to \"We have compiled public, non-personal information from GitHub consisting of permissively licensed Python code in October 2021\".",
+    "NOVELTY"
+  ],
+  [
+    "The proposed method is simple yet effective, good performance are obtained according to experiments;\r\n\r\nThe paper is easy to follow;\r\n\r\nHowever, the proposed method has limited novelty, it is based on some existing methods;\r\n\r\nIt would be nice if the authors can provide a comprehensive comparison of computation cost/time between the proposed method and previous methods;\r\n\r\nWhy results of model with 66M parameters is not reported in Table 3?",
+    "NOVELTY"
+  ],
+  [
+    "* The combination of pruning and distillation in task-agnostic setting seems novel.",
+    "NOVELTY"
+  ],
+  [
+    "Can you provide an evaluation of the quality, clarity, and originality of the work?",
+    "NOVELTY"
+  ],
+  [
+    "+ Proposed method is novel and builds upon previously proposed ST LM.",
+    "NOVELTY"
+  ],
+  [
+    "From a technical perspectivie, there is little novelty to this approach.",
+    "NOVELTY"
+  ],
+  [
+    "Their is no novelty in the learning scheme, despite their being room for it.",
+    "NOVELTY"
+  ],
+  [
+    "It is a good observation that existing methods do not explicitly model named entities, but the technical novelty of the proposed solution is limited.",
+    "NOVELTY"
+  ],
+  [
+    "Strong & Weak:\r\n\r\nS1: It is novel to exploit image info in the form of textual entities extracted from it.",
+    "NOVELTY"
+  ],
+  [
+    "The method lacks novelty.",
+    "NOVELTY"
+  ],
+  [
+    "### Strengths: \r\n- To the best of my knowledge, this is the first framework to unify debiasing and detoxifying tasks for open-ended generation.",
+    "NOVELTY"
+  ],
+  [
+    "The model's usage of HTML-T5 for planning and summarization is effective and novel, and the overall performance is good.",
+    "NOVELTY"
+  ],
+  [
+    "That said, the application scenario is novel, and the paper considers a novel metric for semantic diversity.",
+    "NOVELTY"
+  ],
+  [
+    "I agree with authors that combination of sequence profiles and GNNs for protein design can be considered as novel and interesting but there are already several available design methods that rely on the MSAs or PSSMs - e.g. al, 2022, Elife or traditional Rosetta(Scripts) FavorSequenceProfile mover, to name a few.",
+    "NOVELTY"
+  ],
+  [
+    "The paper incorporates sequence profiles from similar analogs, but the network structure lacks novelty compared to recentworks.",
+    "NOVELTY"
+  ],
+  [
+    "The paper formulates the sentence retrieval problem as a combination of sentence-set similarity and set operations, which is novel for the community.",
+    "NOVELTY"
+  ],
+  [
+    "The two main weaknesses in the paper are novelty and empirical results, which I will describe in detail below.",
+    "NOVELTY"
+  ],
+  [
+    "This only leaves (ii) \u2014 it is interesting to see improvement in calibration errors, but this is not sufficient by itself considering lack of novelty in the main training method.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty is also limited, given that OCD is so similar.",
+    "NOVELTY"
+  ],
+  [
+    "Combining active learning with the selection process of prompt exemplars is a very intriguing and novel perspective.",
+    "NOVELTY"
+  ],
+  [
+    "(3) The paper's reliance on the concept of self-contradictions as a novel approach for detecting hallucination in LLMs is questionable.",
+    "NOVELTY"
+  ],
+  [
+    "Several prior studies have explored similar methodologies in hallucination detection, raising concerns about the novelty of the proposed method.",
+    "NOVELTY"
+  ],
+  [
+    "* The proposed pipeline lacks novelty.",
+    "NOVELTY"
+  ],
+  [
+    "The paper introduces a novel approach to improving in-context learning, which is an important problem with a myriad of strategic practical application.",
+    "NOVELTY"
+  ],
+  [
+    "The works appears to be original and the.",
+    "NOVELTY"
+  ],
+  [
+    "The idea of applying Q-Former to LLMs is not novel and has been explored by the previous BLIP papers.",
+    "NOVELTY"
+  ],
+  [
+    "- The major concern is the novelty.",
+    "NOVELTY"
+  ],
+  [
+    "This fact further deteriorates the novelty of this work.",
+    "NOVELTY"
+  ],
+  [
+    "The method looks novel and presents a good extension to PPO.",
+    "NOVELTY"
+  ],
+  [
+    "For the last (and least) of issues, the idea of guiding the search for optimal policy is technically not novel outside the LLM fine-tuning domain, and the same can be said about other ideas presented in the paper.",
+    "NOVELTY"
+  ],
+  [
+    "# originality\r\nCombining search techniques with LLMs is an emerging area.",
+    "NOVELTY"
+  ],
+  [
+    "MCTS is only recently being studied in this context, making the work original in that respect.",
+    "NOVELTY"
+  ],
+  [
+    "# originality\r\nThe MCTS formulation is similar to RAP in some ways, but differs in many key details, particularly around how the world modeling is done, where RAP explicitly models the world but REX uses the implicit model of the LLM.",
+    "NOVELTY"
+  ],
+  [
+    "Augmenting LLMs with search techniques is not itself novel, but this is not a substantial lack of originality per se either.",
+    "NOVELTY"
+  ],
+  [
+    "Proposed mechanisms such as integration of rewards into the prompt are novel.",
+    "NOVELTY"
+  ],
+  [
+    "However, the novelty of the robustness experiments is a bit limited, and it\u2019s not clear the proposed method for improving this is significantly better than baselines.",
+    "NOVELTY"
+  ],
+  [
+    "- Originality: While the paper offers a thorough numerical comparison of different design choices (problem representation, neural architecture, pretraining, etc.)",
+    "NOVELTY"
+  ],
+  [
+    "in the context of string-based reinforcement learning for molecular discovery, its originality is somewhat constrained.",
+    "NOVELTY"
+  ],
+  [
+    "* Please also consider citing the relevant parallel work which applies offline RL for the similar problem: https://www.biorxiv.org/content/10.1101/2023.11.29.569328v1 (once it is public)\r\n\r\nThe second work seems to be very similar in terms of approach and I'm not sure about the novelty of the approach itself.",
+    "NOVELTY"
+  ],
+  [
+    "* The idea of evaluating VLIT datasets is novel and well-motivated, which can facilitate our understanding of the quality of emerging VLIT datasets.",
+    "NOVELTY"
+  ],
+  [
+    "ReFusion introduces a novel approach to combining retrieval information with model representations, which is a step forward in prompt-based learning.",
+    "NOVELTY"
+  ],
+  [
+    "The authors claim to be the first to propose fusing the representations of retrievals directly into models to solve the performance and efficiency bottleneck of prompt-based techniques.",
+    "NOVELTY"
+  ],
+  [
+    "I have concerns on aspects of novelty, practicality and evaluation.",
+    "NOVELTY"
+  ],
+  [
+    "### Novelty\r\n- The main contribution of the paper is in providing a tunable hyperparameter space.",
+    "NOVELTY"
+  ],
+  [
+    "However, I don't think the novelty is enough to be published in ICLR.",
+    "NOVELTY"
+  ],
+  [
+    "* The proposed methods, e.g., \"reinforcement bootstrapping\" and \"anchor term\" method, are simple and novel.",
+    "NOVELTY"
+  ],
+  [
+    "If so, this might just be a thinly disguised version of Harry Potter, and the whole novel is still lurking in the model's weights, ready to emerge.",
+    "NOVELTY"
+  ],
+  [
+    "The simple combination of the audio model and LLM does not seem to be novel.",
+    "NOVELTY"
+  ],
+  [
+    "The idea, at the time the paper was originally written, was indeed very novel as there were not many audio language models around back in May.",
+    "NOVELTY"
+  ],
+  [
+    "The idea makes a lot of sense.",
+    "NOVELTY"
+  ],
+  [
+    "Audio Instruction Generation (AIG) is also quite nice and interesting.",
+    "NOVELTY"
+  ],
+  [
+    "The curriculum learning is yet another contribution which makes a lot of sense and the authors have proposed an intuitive curriculum and backed it up with apt ablation study to show its utility.",
+    "NOVELTY"
+  ],
+  [
+    "The Human evaluation study adds a ton of value in judging LTU in my perspective.",
+    "NOVELTY"
+  ],
+  [
+    "* The combination of LLMs with EAs as presented is novel to me, providing insights for future LLM research.",
+    "NOVELTY"
+  ],
+  [
+    "Designing prompts for language models, although important, might not meet the level of substantial novelty expected at a conference like ICLR.",
+    "NOVELTY"
+  ],
+  [
+    "Therefore the novelty of these components of the paper is negligible.",
+    "NOVELTY"
+  ],
+  [
+    "**originality** The proposed method and theoretical results in the paper are both novel.",
+    "NOVELTY"
+  ],
+  [
+    "- The idea of MoE with sample routing to mitigate task interference for MLLMs is novel.",
+    "NOVELTY"
+  ],
+  [
+    "While input channel quantization isn't new (weakness 1), AdaDim is novel.",
+    "NOVELTY"
+  ],
+  [
+    "Second, it is not clear which results are novel contributions (on the technical level), and which results are just \"rehashing\" of known results.",
+    "NOVELTY"
+  ],
+  [
+    "The integration of AI feedback and the existing QD algorithm seems to be novel and interesting\r\n\r\nWeakness\r\n* One key motivation of the paper using AI feedback seems to bypass the necessity to articulate a set of criteria.",
+    "NOVELTY"
+  ],
+  [
+    "QDAIF presents a novel approach to discover diverse and high-quality solutions in qualitative domains by leveraging AI feedback, which contributes to the development of AI systems.",
+    "NOVELTY"
+  ],
+  [
+    "Originality:\r\nContinuous PE scaling is introduced as a RoPE embedding scaling method.",
+    "NOVELTY"
+  ],
+  [
+    "* Novelty: The proposed tree-search-based method is novel (see footnote) and uses a simple but effective cost-function design that helps in better decision-making.",
+    "NOVELTY"
+  ],
+  [
+    "The heuristic function seems novel with potential for broad use across tasks.",
+    "NOVELTY"
+  ],
+  [
+    "The combination of utilizing Large Language Models (LLMs) and the Shared Response Model (SRM) to explore common information spaces in human brain processing seems to be a novel approach.",
+    "NOVELTY"
+  ],
+  [
+    "The novelty in the paper is somewhat limited as it primarily delves into a comparison between shared responses, original responses, and denoised responses.",
+    "NOVELTY"
+  ],
+  [
+    "Novel Oracle efficiency-based metric is designed.",
+    "NOVELTY"
+  ],
+  [
+    "The choice of using the second price auction and beauty contest game as an evaluation arena for LLMs is novel.",
+    "NOVELTY"
+  ],
+  [
+    "It is novel that the paper pays attention implicit intermediate supervision instead of explicit supervision to solve intricate tasks in language modeling, and it provides detailed proof of the notion.",
+    "NOVELTY"
+  ],
+  [
+    "Limited Novelty: The system's enhancement relies on using an LLM to distill essential information from retrieved documents into concise bullet points.",
+    "NOVELTY"
+  ],
+  [
+    "The approach is straightforward and novel.",
+    "NOVELTY"
+  ],
+  [
+    "## Originality\r\nThis work appears relatively novel, considering the important problem of LLM controllability and bringing insight from dynamical systems literature to characterize controllability.",
+    "NOVELTY"
+  ],
+  [
+    "The paper is very original, and presents some unique idea on how to determine the controllability of \"well-trained\" LLMs.",
+    "NOVELTY"
+  ],
+  [
+    "It is a bit hard to identify the interestingness or novelty in the approach.",
+    "NOVELTY"
+  ],
+  [
+    "1) Originality of the method.",
+    "NOVELTY"
+  ],
+  [
+    "In my view, the final loss function is very similar to the d2gpo loss, the authors did cite the d2gpo paper, but they ignored the methodology comparison and they should add d2gpo as a baseline.",
+    "NOVELTY"
+  ],
+  [
+    "Could you explain more precisely what exactly is new?",
+    "NOVELTY"
+  ],
+  [
+    "Hence, the overall novelty of the work appears very low.",
+    "NOVELTY"
+  ],
+  [
+    "Unfortunately, as the paper overall does not seem to contain significant novelty, neither in methodology nor in results, I cannot recommend acceptance at this point.",
+    "NOVELTY"
+  ],
+  [
+    "1- The paper's contributions and novelty are not immediately clear.",
+    "NOVELTY"
+  ],
+  [
+    "To the best of my knowledge, there is no other system that is leveraging existing LLMs and audio generation models for such a use-case.",
+    "NOVELTY"
+  ],
+  [
+    "It shows how best we can achieve when combining state-of-the-art models, and the contribution is limited from the perspective of technical novelty.",
+    "NOVELTY"
+  ],
+  [
+    "It seems that this paper a little bit lacks of novelty.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed method represents a novel approach to multimodal techniques, distinguishing itself from previous Vision-Language Models (VLMs) like Flamingo and PaLI.",
+    "NOVELTY"
+  ],
+  [
+    "The idea is not that novel, compared with BEIT-3 and VLMo, which also introduces different modality expert structures, although this work makes some changes to make it work in the era of LLM.",
+    "NOVELTY"
+  ],
+  [
+    "The main concern to me about this paper is its limited novelty and scientific merit.",
+    "NOVELTY"
+  ],
+  [
+    "- The novelty of the LLMZip method seems to be limited.",
+    "NOVELTY"
+  ],
+  [
+    "The paper's attempt to innovate using the advanced LLaMa2 as an LLM seems to lack strong novelty.",
+    "NOVELTY"
+  ],
+  [
+    "[Originality and Significance] The author presented two original findings.",
+    "NOVELTY"
+  ],
+  [
+    "The method to use Mixtures of Experts (MoE) as a way to perform weight disentanglement is an interesting and novel idea and is backed up by solid quantitative results.",
+    "NOVELTY"
+  ],
+  [
+    "- Strengths: originality of the CORE evaluation measure, good accuracy of proposed similarity measure and large number and diversity of datasets for evaluation.",
+    "NOVELTY"
+  ],
+  [
+    "If it is the extension to multilingual embeddings, a few lines explaining the novelty would help.",
+    "NOVELTY"
+  ],
+  [
+    "The paper presents a novel approach for evaluating grammatical error correction (GEC) systems.",
+    "NOVELTY"
+  ],
+  [
+    "But considering the proposed consolidation of the previous work, I would expect a bit more from a full paper, such as innovations in the representations (other features?)",
+    "NOVELTY"
+  ],
+  [
+    "The architecture does not look entirely novel, but I kind of like the simple and practical approach compared to prior work.",
+    "NOVELTY"
+  ],
+  [
+    "-----General Discussion----- This paper proposes a practical model which seems working well on one dataset, but the main ideas are not very novel (see comments in Strengths).",
+    "NOVELTY"
+  ],
+  [
+    "- strengths This is a novel approach to modeling the compositional structure of complex categories that maintains a set theoretic interpretation of common nouns and modifiers, while also permitting a distributional interpretation of head modification.",
+    "NOVELTY"
+  ],
+  [
+    "The suggestion is to compress the first 5 pages, focusing the review strictly on the paper topic, and consider the technological innovation in more detail, incl.",
+    "NOVELTY"
+  ],
+  [
+    "Contributions of the paper don't seen particularly novel.",
+    "NOVELTY"
+  ],
+  [
+    "However, there are insufficient experiments and comparison to previous work to convince me that the paper\u2019s contributions are novel and impactful.",
+    "NOVELTY"
+  ],
+  [
+    "Your work is so similar to much of this work that you should really cite and establish novelty wrt at least some of them as early as the introduction -- that's how early I was wondering how your work differed, and it was not made clear.",
+    "NOVELTY"
+  ],
+  [
+    "Given that there is a wealth of existing work that performs the same task and the lack of novelty of this work, the authors need to include experiments that demonstrate that their technique outperforms others on this task, or otherwise show that their dataset is superior to others (e.g. since it is much larger than previous, does it allow for better generalization?)",
+    "NOVELTY"
+  ],
+  [
+    "In my opinion, though the idea of using RC for relation extraction is interesting and novel, the approach is not novel.",
+    "NOVELTY"
+  ],
+  [
+    "- Weaknesses: As said above, there is little surprise in the proposed approach.",
+    "NOVELTY"
+  ],
+  [
+    "The use of RNN and Copy RNN in the current context is a new idea.",
+    "NOVELTY"
+  ],
+  [
+    "The model is interesting and novel.",
+    "NOVELTY"
+  ],
+  [
+    "A weakness is that the work isn't very novel, being just an application of a known technique to a new kind of neural net and application (namely NMT), with results that aren't very surprising.",
+    "NOVELTY"
+  ],
+  [
+    "- Strengths: This paper has high originality, proposing a fundamentally different way of predicting words from a vocabulary that is more efficient than a softmax layer and has comparable performance on NMT.",
+    "NOVELTY"
+  ],
+  [
+    "The proposed approach for representing noun/adjective vectors is very similar to that of Agres et al.",
+    "NOVELTY"
+  ],
+  [
+    "In my knowledge, the previous work has not yet attempted to tackle this problem.",
+    "NOVELTY"
+  ],
+  [
+    "But such a question is not really novel.",
+    "NOVELTY"
+  ],
+  [
+    "There are no particularly innovative or novel solutions developed or applied.",
+    "NOVELTY"
+  ],
+  [
+    "- General Discussion : The authors proposed a novel neural model for morphological inflection generation which uses `` hard attention '' , character alignments separately obtained by using a Bayesian method for transliteration .",
+    "NOVELTY"
+  ],
+  [
+    "It is substantially different from the previous state of the art neural model for the task which uses `` soft attention '' , where character alignment and conversion are solved jointly in the probabilistic model .",
+    "NOVELTY"
+  ],
+  [
+    "- Strengths : A new encoder-decoder model is proposed that explicitly takes into account monotonicity .",
+    "NOVELTY"
+  ],
+  [
+    "- Weaknesses : Maybe the model is just an ordinary BiRNN with alignments de-coupled .",
+    "NOVELTY"
+  ],
+  [
+    "- General Discussion : The authors propose a novel encoder-decoder neural network architecture with '' hard monotonic attention '' .",
+    "NOVELTY"
+  ],
+  [
+    "- Strengths : This paper proposes a novel approach for dialogue state tracking that benefits from representing slot values with pre-trained embeddings and learns to compose them into distributed representations of user utterances and dialogue context .",
+    "NOVELTY"
+  ],
+  [
+    "- Strengths : This paper tries to use the information from arguments , which is usually ignored yet actually quite important , to improve the performance of event detection .",
+    "NOVELTY"
+  ],
+  [
+    "The authors proposed a method by matching the head of noun phrases",
+    "NOVELTY"
+  ],
+  [
+    "- Strengths : This paper introduced a novel method to improve zero pronoun resolution performance..",
+    "NOVELTY"
+  ],
+  [
+    "The authors advocate a novel procedure for generating large amount of relevant data from unlabeled documents .",
+    "NOVELTY"
+  ],
+  [
+    "The idea of assigning variable-length document segments with dependent topics is novel .",
+    "NOVELTY"
+  ],
+  [
+    "Separating motion and content has also been proposed for other applications , e.g .",
+    "NOVELTY"
+  ],
+  [
+    "However , I still have several comments : 1 ) The proposed amortized MAP inference is novel and different from the previous SR methods .",
+    "NOVELTY"
+  ],
+  [
+    "Overall , this paper provides a new framework for SR with solid theoretical analysis .",
+    "NOVELTY"
+  ],
+  [
+    "The idea is novel and the author explore many methods .",
+    "NOVELTY"
+  ],
+  [
+    "This paper also seems to be the first to outline a trust-region fitted-q iteration algorithm .",
+    "NOVELTY"
+  ],
+  [
+    "The use of pre-trained visual features is also shown to help , empirically , for generalization .",
+    "NOVELTY"
+  ],
+  [
+    "The idea of removing or adding units is definitely an interesting direction , that will make a model grow or shrink along the lines required by the problem and the data , not the user prior knowledge .",
+    "NOVELTY"
+  ],
+  [
+    "The authors do emphasize that they are able to train networks that use fewer units to achieve comparable performance to networks trained parametrically .",
+    "NOVELTY"
+  ],
+  [
+    "It does a good job exploring a new form of supervision with a new dataset .",
+    "NOVELTY"
+  ],
+  [
+    "Another novelty here is that they use a quantitative likelihood-based measure to assess them model , in addition to the AB human comparisons used in the wavenet work .",
+    "NOVELTY"
+  ],
+  [
+    ") , the main novelty is to combine them with gated pooling layers to integrate information from previous time steps .",
+    "NOVELTY"
+  ],
+  [
+    "This paper describes a new approach to meta learning by interpreting the SGD update rule as gated recurrent model with trainable parameters .",
+    "NOVELTY"
+  ],
+  [
+    "The idea is original and important for research related to transfer learning .",
+    "NOVELTY"
+  ],
+  [
+    "SYNOPSIS : This paper introduces a new dataset for evaluating end-to-end goal-oriented dialog systems .",
+    "NOVELTY"
+  ],
+  [
+    "To the best of my knowledge , this is one of the first theoretical papers about GANs and the paper , contrary to most of the submissions in the field , actually provides deep theoretical insight into this architecture .",
+    "NOVELTY"
+  ],
+  [
+    "As more and more applications of reinforcement learning are being explored , this approach brings us back to a basic question .",
+    "NOVELTY"
+  ],
+  [
+    "The presented method is novel .",
+    "NOVELTY"
+  ],
+  [
+    "It introduces a new algorithm which performs better in novel 3D environments from raw sensory data and allows better generalization across goals and environments .",
+    "NOVELTY"
+  ],
+  [
+    "The paper has novel models for neural language modeling and some interesting messages .",
+    "NOVELTY"
+  ],
+  [
+    "Using k-nearest neighbors for memory access is not completely new .",
+    "NOVELTY"
+  ]
+]

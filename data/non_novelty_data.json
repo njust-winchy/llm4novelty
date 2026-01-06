@@ -1,0 +1,3214 @@
+[
+  {
+    "text": "Shouldn't it be the other way around?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "My main concern is with the evaluation:  Are all evaluated models trained with the same amount of data and evaluated on the same test sets?",
+    "labels": [
+      "Data/Task",
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "Please do a professional proofreading before submitting your work.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "**Comments:**\r\n\r\n- **Section 2.2:**\r\n    - What are source and target games?",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "Were other methods of adding context considered?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "It is great that the paper includes human numbers for both tasks, including all the metrics for generation.",
+    "labels": [
+      "Evaluation",
+      "Result"
+    ]
+  },
+  {
+    "text": "The use of LMU reduces the self attention complexity from n^2 to q'xq where q is the order of the q Legendre polynomials.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "A more meaningful experiment is to compare the accuracy of the ELM model with a Transformer-LM with the same number of parameters and check whether the ELM model can match the performance with less training cost, or can outperform Transformer-LM under the same training budget.",
+    "labels": [
+      "Experiment",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "I am doubtful about the reproducibility of the paper.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Finally, the clarity can be improved.",
+    "labels": [
+      "Presentation",
+      "Result"
+    ]
+  },
+  {
+    "text": "Cons:\r\n\r\nThere is no baseline against the traditional left to right approach.",
+    "labels": [
+      "Comparison"
+    ]
+  },
+  {
+    "text": "The proposed architecture tries to address key issues of stream data, such concept drift and system latency.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- The claim that the resulting representations are more \"interpretable\" is not backed up by any evidence at all, even though the word \"interpretable\" is in the title and the list of contributions.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "Comments:\r\n- Section 3.1: \"each edge\" should have a capital e.\r\n- Section 3.3, specifically the part where you show that factored attention is a pairwise MRF, is too brief.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The paper will benefit from adding a brief discussion on how exactly the transition from long congressional speech to short tweets adds to the challenges of the task.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "There should be more comparisons in both performance and complexity - the proposed method does better but certainly uses more computation so the tradeoff should be analyzed.",
+    "labels": [
+      "Comparison",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "There are already a number of applications for detecting AI-generated text, e.g., https://copyleaks.com/ai-content-detector, https://writer.com/ai-content-detector/.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Thus we combine the two in an attempt\r\nto take advantage of both advantages.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The authors propose a framework to incorporate additional semantic prior knowledge into the traditional training of deep learning models such that the additional knowledge acts as both soft and hard constraints to regularize the embedding space instead of the parameter space.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The textual description of the CNN (one-hot or semi-supervised using pre-trained embeddings)  is clear, detailed, and points out the important aspects.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The experimental part of the paper does not highlight its method.",
+    "labels": [
+      "Experiment",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "A last comment: the agent proposed in the paper has another unusual feature in that its exploitation policy is trained only by self-imitation.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- `s3.2 p2`: Due to the argmax, is it the case that the \"confidence\" of the predictions is not used in optimization?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "### Weaknesses\r\n\r\nAs mentioned in the Limitation section, FLIPPED is only naturally applicable to classification tasks where the label space is limited, while DIRECT methods appear to be more flexible from this aspect.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "In each \"layer\" of the proposed phrase transformer, it has actually two self-attention layers, but the baseline has only one self-attention layer.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Since the authors mentioned that the consideration of dynamic changes in the distillation process is a key contribution of the paper, it would be good to provide additional experiments to demonstrate this.",
+    "labels": [
+      "Experiment"
+    ]
+  },
+  {
+    "text": "Self-termination is achieved without a sacrificing perplexity.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "(Weaknesses)\r\n1) Individual problematic ingredients are neither being theoretically-proven nor empirically-proven.",
+    "labels": [
+      "Theory"
+    ]
+  },
+  {
+    "text": "I buy the argument that the more sophisticated   attention model probably makes CopyRNN better than the RNN   overall, but why is the former model particularly better for absent   keyphrases?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "For example, the authors fixed l_ins to be 2, without an explanation.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "* Method perform well compared to alternatives in the Adapters world.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "It is good to analyze how and why the  unary masking is beneficial",
+    "labels": [
+      "Analysis"
+    ]
+  },
+  {
+    "text": "(2023) is incorrectly described.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The authors build T5 and BART as baseline models, however, The GPT-style models are not considered in this paper.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The visualization also indicates that without the retriever loss, samples from various tasks can become intertwined.",
+    "labels": [
+      "Data/Task",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Evidence for how LLMs can be helped by forcing it to \"think\" in more structured terms, such as FOL predicates.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Due to lack of details in the paper, I am assuming that the priors p(z0) and p(zT) are standard gaussians.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "**--- Strengths ---**\r\n\r\nNo particular strengths stood out to me when reviewing this paper.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Also, many important details (e.g. the architecture to learn the affordance maps and the aggregation steps) are put in supplementary.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "As a teach-student distillation framework, there are several papers using a posterior regularizer with hard constraints, e.g., \"Harnessing deep neural networks with logic rules\", \"Constrained Convolutional Neural Networks for Weakly Supervised Segmentation\".",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "Decompilation can mean many things, but the general idea as I understand it, is to take a representation of a software program from one level (e.g., program binary) and then “lift it” to a level that is higher in abstraction (e.g., from binary to assembly, from assembly to C, from C to a lambda calculus, etc.).",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "(3) The proposed entity memory augmented model is reasonable and improved entity coherence/consistency in some of the experiments.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "The work needs to be better situated within this broader literature, to clarify its contributions.",
+    "labels": [
+      "Contribution",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "If the Graph2Seq model is generally applicable to replace the Seq2Seq model, the author should experiment with more tasks.",
+    "labels": [
+      "Data/Task",
+      "Experiment",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The difference here is that the authors find the model early in the training run, but it seems like the EarlyBERT procedure could be run once and the resulting model architecture could be saved and re-trained like NAS models are.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Interestingly, there is a noticable degradation in performance, yet there's no explanation as to why.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Result"
+    ]
+  },
+  {
+    "text": "Did you mean to say that each weight located in row 'i' will use the average weight of its row?",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "I would find it more informative to add an additional barplot under figure 4 showing highest discarded weight magnitude by class.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "- one minor issue is to use \\citep instead of \\cite in latex for a more valid citation format of papers",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "I believe it should be included (it is ok that it outperforms the proposed method.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "In the paper, the author only highlights the superiority of separate settings on Ro->En task.",
+    "labels": [
+      "Analysis"
+    ]
+  },
+  {
+    "text": "It would be good to compare this simple method with GROVE in terms of generation quality and diversity.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Some more insights would be really useful.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "This paper is well-written and strongly motivated.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Possible mistakes/typos:\r\n1.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Questions:\r\n\r\n* You cite several papers which demonstrate that different layers of pretrained Transformers encode different information, which is the motivation for your architecture.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "I see that there is an ablation with/without this module but its not fairly compared with other aligning or simple techniques like in Zhao et al.",
+    "labels": [
+      "Ablation",
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Publication venues are often missing; e.g., where was Boonkwan & Supnithi (2018) published?",
+    "labels": [
+      "Presentation",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "Similar is the case with E_{out}=768.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "\"Integer or Floating Point?",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "The presented algorithm and implementation details are useful in understanding some of the technical challenges.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "However, I want to see some measures of intrinsic evaluation related to the scrambled datasets\r\nas well (e.g., perplexity).",
+    "labels": [
+      "Data/Task",
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "My 2 main issues with the paper are confusing motivation (in section 1) and various imprecise parts (in section 3 and 4).",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "- When you set the contextual or position encoding to zero, you create a significant distribution shift in representations.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Empirical results on MultiWoz 2 and 2.1 shows improvement over other state-of-the-art techniques.",
+    "labels": [
+      "Data/Task",
+      "Result"
+    ]
+  },
+  {
+    "text": "- Table 7: some of the top word hypothesis pairs make sense acoustically (building-buildings, red-bed, ...), some could be neighboring words (large-car, ...), but some are just weird (people-computer) - any intuition as to what is going on?",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation",
+      "Methodology",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Line 794 claims that you have a significant solution to what I call the elusive gold standard problem.",
+    "labels": [
+      "Significance"
+    ]
+  },
+  {
+    "text": "Since the Document vector is computed by averaging its word vectors, therefor the averaging scheme may not consider the syntactic structure e.g. However, the methods such as [1, 2] employs LSTM to compute document vectors and globsl context considering linguistic structures.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "- A number of training tasks are experimented with in the\r\nLean setting.",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "This is unclear below Eq (6).",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The paper provides a comprehensive set of experiments, introducing two new settings: set intersection and set differences.",
+    "labels": [
+      "Experiment"
+    ]
+  },
+  {
+    "text": "Predicting the binary code directly is a clever way to reduce the   parameter space, and the error-correction code just works   surprisingly well.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "I think this work would have much greater impact if the authors can show that the power-law form holds for a larger variety of architectures and optimizers thus allowing researchers to more confidently incorporate the results of this work into the design and training deep neural networks.",
+    "labels": [
+      "Methodology",
+      "Significance"
+    ]
+  },
+  {
+    "text": "The paper is clear and easy to read.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "(2) I am also not convinced by the experiments in Table 1.",
+    "labels": [
+      "Experiment",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "- To be able to execute actions on real websites, WebAgent produces executable Python code instead of discrete and non-generalizable HTML actions.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "* There are two (among many other) interesting things that stand out from the results in Tables 1 and 2.",
+    "labels": [
+      "Analysis",
+      "Result"
+    ]
+  },
+  {
+    "text": "- Clear explanation of the proposed model.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Do you have confidence intervals for the DYCK language?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "* Ablations in Table 5 are very useful and convincing.",
+    "labels": [
+      "Ablation",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "I had an idea what the paper was trying to propose, but it wasn't until I reached the dataset section that the problem, next word(s) completion, became clear.",
+    "labels": [
+      "Data/Task",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Still, the overall contribution is mostly in combining existing methods and can be judged as rather incremental.",
+    "labels": [
+      "Contribution",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "It would be easy to use ELMo here, if the main question is about Transformers vs recurrent models.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The ablation studies in Table 6 can prove the effectiveness of CogVLM design.",
+    "labels": [
+      "Ablation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "https://github.com/gnn4dr/DRKG/",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "**Concerns & Questions to Answer during rebuttal**\r\n- The original text GAN papers were mainly motivated to address the *exposure bias* problem in maximum likelihood estimation for autoregressive generators.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "## Exaggerated Claims\r\nThe assertion that this is the \"first method to concurrently address explainability and sample efficiency\" is overstated.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Since they both use $m$ nodes, does it mean the supergraph also operates on each sub fact node?",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "In either case, since it is a binary classification task, F1 would have been a desirable metric.",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "M6-T on sample-basis.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Compared to the previous SOTA models with similar sizes, including BERT, RoBERTa, XLNet and Megatron336M, DeBERTa consistently outperforms them in all the 7 tasks.",
+    "labels": [
+      "Comparison",
+      "Result"
+    ]
+  },
+  {
+    "text": "- General Discussion: This paper presents \"a simple yet effective framework that can extract names from 282 languages and link them to an English KB\".",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- Authors have provided clear motivation and intuitions for most of the design choices.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "It could be a cherry-picked exception.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "Otherwise, it is not clear how useful the proposed method is.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The authors admit being surprised by the very low score the Li and Hovy model achieves on their task.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "- The paper lacks analyses on dataset bias.",
+    "labels": [
+      "Analysis",
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "Why do you think this happens?",
+    "labels": [
+      "Experiment",
+      "Result"
+    ]
+  },
+  {
+    "text": "- Lakretz at all actually identified several syntax units, but only one of them was interpretable.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "The proposed method provides more information to the users on knowing what can be improved from the initial story where it might help humans or machines to (re)-write for a better story.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "- The major (if not the only) competitor of the proposed Concept-QA is CLIP baseline.",
+    "labels": [
+      "Comparison"
+    ]
+  },
+  {
+    "text": "Also in terms of providing a empirical study to multi-domain AL, it appears [1] also studies a similar problems and offers similar analysis.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "Let's ask this question for WikiText-2 because I understand that the limited context of gpt2 makes this difficult in the WikiText-103 experiments.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "The latter ratio seems proportional to the ratio $\\frac{\\ell_\\mathcal{T}(\\\\{p_{\\cdot\\mid s}\\\\}) - \\tau}{\\ell_\\text{xent}(\\\\{p_{\\cdot\\mid s}\\\\})-\\ell_\\text{xent}^\\ast}$.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Weaknesses: both the noisy-student learning and the quantization distillation are existing approaches, and the idea of correlating semantics with noise robustness is also well known.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "- Extensive experiments are conducted to study the effectiveness of the method in many practical usecases.",
+    "labels": [
+      "Experiment",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Previous work proposed first to learn multilingual language model in a self-supervised manner for the initialization.",
+    "labels": [
+      "Methodology",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "It will be more interesting if the method can get strong performance on non-pretrained or smaller-scale models.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "Key contributions lie in its simplicity and adaptability.",
+    "labels": [
+      "Contribution",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Why image tasks do not have as much saving as NLP tasks?",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "BROS could achieve robust and consistent performances across all the four permuted version datasets, which demonstrates that BROS is adaptive to documents from the practical scenarios.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "I have to add two caveats, though.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "### Strengths\r\nI think overall the proposed approache is technically sound well motivated by the challenges in complex reasoning over a long context.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Further, the dynamic nature of the proposed entity memory network allows multiple attributes to be associated with an entity.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "That the performance is improved compared to other unsupervised abstractive summarization confirms the importance of this approach.",
+    "labels": [
+      "Comparison",
+      "Result",
+      "Significance"
+    ]
+  },
+  {
+    "text": "However, it would be nice to see ROC curves for the new approach alone, not in an ensemble with Hearst patterns.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "**Strength**\r\n\r\nAnalyzing the hardness of equivalence decidability can be an interesting perspective to understand the learning capacity of neural network models, especially for programming language tasks.",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The proposed entity memory-based pre-trained LM is only compared with Vanilla LM.",
+    "labels": [
+      "Comparison"
+    ]
+  },
+  {
+    "text": "Demonstrating success in real-world web navigation tasks provides a strong case for the practical application of this research.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Furthermore, the mixed results shown in Table 3 do not justify the proposed method well enough.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation",
+      "Result"
+    ]
+  },
+  {
+    "text": "The same evaluations could be used as in Figure (b) in the appendix.",
+    "labels": [
+      "Evaluation",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "I encourage the authors to try and give the paper a better structure.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Why were the graph edges thresholded at z>5 and why was k-core analysis performed?",
+    "labels": [
+      "Analysis"
+    ]
+  },
+  {
+    "text": "E.g., what’s the lengths distribution of the output strings?",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Given that the encoder-decoder paradigm dominantly governs machine translation (also from the experiment part of this paper that LMs underperform EncDec most of the time.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The third layer does not\r\nhave inverse-Gamma distribution and simply optimized.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "This representation takes rnq parameters which can be much less than p, since p = q^n.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Strength:\r\n- Experiments on many data sets.",
+    "labels": [
+      "Data/Task",
+      "Experiment"
+    ]
+  },
+  {
+    "text": "Strengths:\r\nThe paper is well-written with clear motivations and structure.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "- maybe a way of phrasing trivial in the other way around.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Some discussion on the current design choices and why making the proposed methods features to some of the other baselines is not a way to achieve some benefits is not the right way to do it.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "In my experience, environment bias (or, more generally, dataset bias) usually implies that the training and test sets (or some subset of the data) are distinct in some way, that they are drawn from different distributions.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "My guess is that your approach will scale up easily to accomodate more modalities but do think about it.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "“Learning variational word masks to improve the interpretability of neural text classifiers.” In EMNLP 2020.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "*' Why are you making such explicit scheduling?",
+    "labels": [
+      "Experiment"
+    ]
+  },
+  {
+    "text": "This makes me wonder if PABI would not better fit in the purely Bayesian framework (see other comments below).",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- “we adopt widely used 10 probing tasks” — make sure that you actually cite each of the tasks separately, rather than only the benchmark paper that aggregates them.",
+    "labels": [
+      "Data/Task",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "- The proposed method although simple, is very interesting and shows competitive results or even outperforms other more complicated methods.",
+    "labels": [
+      "Comparison",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "The proposed method was shown to be a better alternative to the classic information retrieval approach such as BM-25 (token marching + TF-IDF weights).",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The authors try to interpret the design of the neural networks using the concepts in the proposed binding-unbinding theorybut are not convincible.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Theory"
+    ]
+  },
+  {
+    "text": "A neural network architecture called Multimodal Policy Network is proposed.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Reasons to accept: \r\n* Interdisciplinary study on extending the language model and KG embedding into protein embedding to empower bio appications\r\n* Insightful strategy and observation on KG negative sampling \r\n* Extensive experiments on multiple tasks and ablation study (attention analysis) are conducted.",
+    "labels": [
+      "Ablation",
+      "Experiment"
+    ]
+  },
+  {
+    "text": "In the Article example : \r\n\"in the wold\"  ?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "All in all I like the paper and think it provides an important resource.",
+    "labels": [
+      "Significance"
+    ]
+  },
+  {
+    "text": "An ablation study is carried out to rule out the possibility that the benefits from PACT come from simply regularizing the model.",
+    "labels": [
+      "Ablation"
+    ]
+  },
+  {
+    "text": "- The proposed EVOPROMPT framework is innovative, combining the language processing capabilities of LLMs with the optimization performance of EAs.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Lack of evaluation on some of the latest MLLM Chat evaluation, such as MMBench, MME, SEED-Bench, etc.",
+    "labels": [
+      "Evaluation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "**Areas of Enhancement & Questions to authors**\r\n\r\n- The information about each of the ablations (ID, BM) could be explained better.",
+    "labels": [
+      "Ablation",
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "In other words, the proposed ConVIRT seems to be useful for the researchers in the medical AI field.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Kumar, V., Choudhary, A., & Cho, E. (2020).",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "The problem investigated is a standard problem, but the fact that the paper is on a relatively less-studied language increases the value of the paper.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "However, I find major drawbacks in the current state of this paper.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "For instance, Johansson and Nieto Piña “Embedding a semantic network in a word space” (NAACL, 2015) decomposed word embeddings into ontology-grounded sense embeddings based on this idea.",
+    "labels": [
+      "Methodology",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "In my understanding, tool-using works such as Toolformer[1] are compatible with CoT and Self-Ask.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "To be honest, I find the unpredictability measure more opaque after author response.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Some important implementation details are missing.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Performing the comparison on equal-sized samples would make sense.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "But this is not mandatory.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "While I would love to have seen a GWG comparison, I understand the overhead that it would require and am fine that it was not included.",
+    "labels": [
+      "Comparison"
+    ]
+  },
+  {
+    "text": "This paper argues to compute the measure of a contrast / counterfactual example pair by extracting the largest Eigenvalue of a matrix (defined in part using the Fisher Information Matrix).",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The first contribution concerning the pre-training strategy is quite interesting.",
+    "labels": [
+      "Contribution",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "\"Local explanation of dialogue response generation.\"",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "I would be interested to see how the ablated versions would perform if the authors tuned the hyper-parameters on 20NG for each of these settings.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "The LSTM and layers for the word2ketXS model would become quite large but their size is not taken into account.",
+    "labels": [
+      "Experiment",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "- Which WMT En-De test set did you use?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Summary:\r\n\r\nThe paper studies the application of neural module network to video-grounded language tasks.",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The characterization of meanings seems quite subjective.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "- This dataset focuses on social norms/morals which are not heavily covered by prior work (e.g, VCR).",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "- **Action:** Compare expressivity with the notion of generalization studied in past works.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- General Discussion: The paper presents supervised and weakly supervised models for frame classification in tweets.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Why is Dutch the best training language for Spanish, and Spanish the best language for Yoruba?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- It might be argued that this approach would not generalize.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Could we have a detailed comparison with other AI feedback methods or discuss how QDAIF specifically addresses their limitations?",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The authors investigate the effect of two factors on language expressivity: scenario complexity and scenario unpredictability.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- **Detailed Process Explanation**: The paper provides a clear and detailed explanation of the three-step pruning process, enabling readers to understand the methodology thoroughly.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "For example the GScan dataset and the original Meta-Seq2Seq model have not been introduced.",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "For example, in the visualization in Figure 2, the maximum many-to-many relationship of a sample is 3.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "I find this result important and useful.",
+    "labels": [
+      "Significance"
+    ]
+  },
+  {
+    "text": "We tackle these two questions in Sections 3 and 4 respectively.\"",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "It will be useful to give some intuition or examples to illustrate this.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "If the idea is to only use these examples for evaluation purposes, then the comparison to counterfactually augmented data (which you show does not include \"difficult\" examples per your definition) does not make sense since that is meant solely for augmenting training sets.",
+    "labels": [
+      "Comparison",
+      "Data/Task",
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "An action in this model is a system action plus response (a sequence of tokens) rather than pre-specified variables in discrete latent models for dialogue (LaRL, etc.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Weaknesses ==== **Technical**:  It's unclear whether there is a limit set  on the phrase length of the pRNN.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Finally, it would be much more interesting if the authors could demonstrate the value of their approach on existing compositional generalization challenges such as SCAN or gSCAN (which they cite), where baselines do exist.",
+    "labels": [
+      "Data/Task",
+      "Evaluation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Returning to the question, can emergent languages be used outside the game for language modeling or image captioning?",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "\"Roberta: A robustly optimized bert pretraining approach.\"",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "The paper stated that (in point 2) 'existing work has focused on visual-linguistic tasks such as visual question answering.', which might not be accurate.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "I feel like explicitly writing down the likelihood would make the equations in the paper flow much better.",
+    "labels": [
+      "Methodology",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "This paper introduces several routing strategies for multilingual neural machine translation.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "A minor comment on the model part.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Therefore, while they are very mathematically precise about how their clustering score is defined, I initially didn’t understand what actual data they were analyzing.",
+    "labels": [
+      "Analysis",
+      "Data/Task",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "How can we conclude by looking at the results that lower layers perform worse?",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "+ How does the overall memory usage compare when using LARS and fp32 on attention compared to adam and full mixed precision?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Would be interesting to quantify the benefits gained not just by varying corpus size, but by varying emergent language complexity.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The experimental details are complete and easy to reproduce.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Experiment"
+    ]
+  },
+  {
+    "text": "This is a matter of concern for future usage.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "- General Discussion: It is important to study how NLP can help to discover cognitive impairments; from this perspective the paper is interesting.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "Furthermore, are there overlaps between such examples if FIM is calculated with respect to a model trained on original data alone vs. one trained on CAD?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The negative sampling is very close to random sampling (with constraints based on entity group type).",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "It seems that the full method proposed yields better results compared to other way point based methods in a certain phase space.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "Using a pre-trained GPT-2 model to extend the training data is also kind of nice, though it is not 100% clear why this is necessary in the experimental settings considered.",
+    "labels": [
+      "Data/Task",
+      "Experiment",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "In particular, given that Table 8 suggest that there is a fair amount of variability among the various trials, ideally you should increase the number of trials to 10 or even larger.",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "+ The ideas in the paper are very well presented and the writing is clear.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "-- The authors have motivated some of their analyses by discussing brain research reporting that longer-timescale regions are more densely connected.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "The work focuses on a robotic pick-and-place task, where the instruction indicates which of the available bins an item should be placed in.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "The paper claims that with task-level routing, the server only needs to pre-load K experts (assuming top-K routing for MoE layers) during inference, instead of loading all experts as in token/sentence level routing.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "The authors are considering a very important problem that many people care about - if a paper can establish that real-world LLMs that we use are controllable, that would be an extremely important paper.",
+    "labels": [
+      "Significance"
+    ]
+  },
+  {
+    "text": "The ablation study shows that this reward can be useful (though not significant).",
+    "labels": [
+      "Ablation"
+    ]
+  },
+  {
+    "text": "The critical sentence in the paper is \"To evaluate the regression models, Pearson’s correlation coefficient between the predicted and the corresponding heldout true sentence or word representations is computed\".",
+    "labels": [
+      "Evaluation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- Implementation details could be further specified - the framework, all other hyperparameters to ease reproducibility.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The writing is clear and well-structured.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The logic in the introduction is a bit contradictive to me:\r\n\r\nSome are able to achieve better asymptotic complexity (citations).",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "They improve computationally over previous work.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "section 2.2: You should double check more throughly that there is no data leakage in test.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Counterfactual Generation, as this forms the main contribution of this work, still no useful information is given in this section, but only a do-calculus is given.",
+    "labels": [
+      "Contribution"
+    ]
+  },
+  {
+    "text": "* The methodology is unclear on whether different rounds were obtained by a chat-based model instantiation, where there are affecting subsequent decisions, or if the models were independently assessed in varied historical contexts, simulating different rounds.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "However, an example of concept draft in a single source can strengthen the need of the application.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- As mentioned in the paper, the ETC baseline is hampered by the 4096 context size limit.",
+    "labels": [
+      "Comparison"
+    ]
+  },
+  {
+    "text": "This manuscript seems better suited to a workshop or other specialized venue.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Summary of paper: the authors explore adding a soft structural attention constraint to BERT, by penalizing attention weights that are substantially different from a head–dependent \"adjacency\" matrix derived from dependency parses.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "While the widely used consistency loss focuses on a single example, the proposed contrastive objective allows capturing the relationships among all data samples which helps in producing diverse and informative examples.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "* Sufficient performance to support the claim.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "Authors manage to cram multiple algorithms (PPO++, AggreVaTeD, LOLS in Appendix B, D2LOLS) and evaluate all of them within the few allowed pages.",
+    "labels": [
+      "Evaluation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "* In Figure 2, right side you observe that different examples tend to different layers.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "\r\nThis paper explores two related methods to reduce the number of parameters required (and hence the memory footprint) of neural NLP models that would otherwise use a large word embedding matrix.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Does calling a search engine cost much more time?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "-) In addition to my comment above, Figure 6 seems to complicate the discussion.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "2020) and then results are validated using a more realistic problem setting either using real images as input or increasing the input space.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "I look forward to the author's discussion of the additional learnable parameters introduced in addition to CLIP's pre-trained model, and compare the number with other methods.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "No-one can claim seriously that “he broke the window” and “the window broke” has “he” and “the window” filling the same semantic role for “break”.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Did you use dynamic masking as that was previous used in RoBERTa?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The entropy-based curriculum relies heavy on assumed human-perceived difficulty, which may not be the same for the network's point of view.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "There is surely a point at which EC corpora are too simple (e.g., imagine just a single token and a very small vocab).",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "I couldn't find out where you properly define the meaning of D either.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "This requires more justification on what the embeddings aim to learn.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- In Fig 4: The caption refers to labels (RNNs-100, RNNs-200, etc) that don't appear in the figure.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "I would recommend to the authors to submit this paper to a conference with a stronger focus on NLP and NLP resources (maybe LREC)?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "10- Figure 3(b): the discriminator accuracy with 4-layer generator have a smooth increase with higher performance than AMOS, which does not use any adversarial training, which seems an intuitive learning curriculum too.",
+    "labels": [
+      "Methodology",
+      "Presentation",
+      "Result"
+    ]
+  },
+  {
+    "text": "It will be more useful to have a full log for each method.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The complexity of learning options would be way different in the two different settings.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Convince me that this doesn’t belong in a bioinformatics venue!",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "It essentially combines known reinforcement learning based instruction following agents with known language models.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "there are minimum WER and MBR based approaches for ASR, see some examples below.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "I think the story starts with pointing out the importance for long-sequence but turns to the topic on short sequence\r\nwhich is confusing.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Intuition says the docking site should play a more significant role than the rest of the molecule.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "I feel like the authors didn't convey an incentive for this.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "For example, why the model need to branch from some LMs on the similar domains?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Minor issues:\r\n\r\n- in section 3: RoBERA -> RoBERTa\r\n- in section 5.1: the third sentence is syntactically incorrect\r\n- in Conclusion: our approach produces better than -> our approach performs better than",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "There is no explicit mechanism for “selecting” a branch in a proof tree, let alone for planning or strategizing, so it’s hardly surprising that they struggle with tasks where these things are required (because they are out of distribution).",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Pros:\r\n- Weakly-supervised method for video moment localization is a reasonable and important direction.",
+    "labels": [
+      "Methodology",
+      "Significance"
+    ]
+  },
+  {
+    "text": "The experimental results verify that using their method they can obtain train test data sets with uniform atom distributions with large divergence in compound distributions, and they find that there is a surprisingly large negative correlation between the accuracy of existing state-of-the-art learning methods and the compound divergence.",
+    "labels": [
+      "Data/Task",
+      "Experiment",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "- the paper provides a novel method for PLM especially suitable for sequence-based protein optimization.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The name spectral reparametrization in the title makes it confusing here.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The real-world value of the proposed method is questionable.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The authors provide several reasonable insights that might be relevant to the user interface modeling community — using object detection as part of multi-task learning instead of standalone pre-training task, design choices to create a single unified architecture for all the tasks, multi-task learning outperforming single-task learning etc.",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "There are many others.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The authors provide unique insights into the application of RL to molecular design and highlight the importance of careful search space structuring and algorithm design.",
+    "labels": [
+      "Methodology",
+      "Significance"
+    ]
+  },
+  {
+    "text": "To illustrate the idea, the authors use 3 different annotated knowledge that are already available in a public dataset that contains equivalent statements, entailed statements as well as functional programs and show that the final performance indeed increases.",
+    "labels": [
+      "Data/Task",
+      "Result"
+    ]
+  },
+  {
+    "text": "Equation (3) u_i appears to be the representation of the i_th position of a sentence, which I think is important notion across the whole paper, however, in the later illustration after equation(3), u_i didn’t appears again even once.",
+    "labels": [
+      "Significance"
+    ]
+  },
+  {
+    "text": "I didn't see any significance measurements and it would be important to add them.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "5.3: \"PEs o\" --> \"PEs to\"",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "In terms of modelling, the work follows in the line of recent work on language-specific parameters for multilingual NMT.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "* Description of refl and tidy-bfs baselines appears much late in the paper.",
+    "labels": [
+      "Comparison"
+    ]
+  },
+  {
+    "text": "How does it perform?",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "This further confirms my concern about the lack of relation between some of the methods used in the paper and active learning.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- In Tables 3 and 7, compared to the performance difference, the variance is very large, questioning the significance of the difference between observed and unobserved instructions.",
+    "labels": [
+      "Presentation",
+      "Result",
+      "Significance"
+    ]
+  },
+  {
+    "text": "- This is a dataset paper, and the annotation guidelines are particularly important for metaphors.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "This seems crucial to ensure the systems can be meaningfully compared.",
+    "labels": [
+      "Comparison",
+      "Experiment"
+    ]
+  },
+  {
+    "text": "Some of the cited references are more or less NLP background so they can be omitted e.g. (Salton 1989) in section 4.2.3.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "By introducing a side-block along with the main model, it has significantly reduced the computational cost and presents an efficient approach\r\n3.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The first part of the paper outlines the procedure of corpus creation and manual emotion annotation.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "- It is not clear what is the relationship between the complexity of the concept space (e.g., similarity between objects and/or number of different objects to represent) and the emerging graphical conventions; further analyses would be needed to clarify this important aspect.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Please feel free to highlight other major contributions.",
+    "labels": [
+      "Contribution"
+    ]
+  },
+  {
+    "text": "The authors speculate that they can alter the novel set (e.g. for importance or factual correctness), but this appears to be nontrivial.",
+    "labels": [
+      "Significance"
+    ]
+  },
+  {
+    "text": "Second, it is said that \"all 5 raters individually considered at least 95% of our rule-based error types to be either “Good” or “Acceptable”\".",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "The performance of Transformer-QL is still far from the work \"ADAPTIVE INPUT REPRESENTATIONS FOR NEURAL LANGUAGE MODELING\" which does not target capturing long context.",
+    "labels": [
+      "Comparison",
+      "Result"
+    ]
+  },
+  {
+    "text": "I enjoyed reading the paper.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The avoidance of label overfitting due to FLIP is also a nice advantage with additional benefits on unseen labels.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "), for what reason should we need to consider a shift to a unified language model for such a seq2seq task?",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "(2) Although the authors have achieved seemingly promising results, I think it can not convince me since the authors have not answered the questions about why and when.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "The first use of the proposed definitions to make a non-trivial claim is in Section 5 with Postulate 1, but this claim is not justified.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "Transformers are rnns: Fast autoregressive transformers with linear attention.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "- Some details in the paper are missing.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "(2) Compared with the baseline methods (section 3.3), why the proposed ConVIRT can achieve the best results?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "2) what gains do we get if we use PPLM’s classifier for both tasks.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The more technically challenging part is to have completeness results for some subclass of programs/properties.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "- S2 -  As shown by results in Table 1 on 5 commonsense reasoning tasks, the intermediate task training proposed in this work improves performance over and above the T5 model (and variants including with salient span masking for concepts).",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "The same work, with a more carefully written paper, could be really great.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The paper is well motivated and described.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "Also, it would be beneficial to see the actual values of p_g and p_c (along with examples in Figure 1) in the CopyRNN model.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The main limitations seem to be: (1) the proposed method is a bit limited in that it can only be used with a corpus in which the target head, relation, and tail spans need to be directly mentioned in a single sentence (2) it’s not clear whether the quantitative improvements are due to factual knowledge in the pretrained model or the syntactic/semantic relationships encoded in the self-attention.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "Does the baseline system (groundhog) contains the attention mechanism?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "A few major issues: (1) What is the new contribution with respect to the translation invariance embedding approach of Gardner et al.?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "+ The authors have promised to release their code for training and evaluation.",
+    "labels": [
+      "Evaluation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Some discussion around why the authors think MC-LAVE underperforms w.r.t.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "- nit: “since relative distance with the same offset will be embedded as a same embedding.” -> “the same embedding”\r\n- “compared to far-way” -> “faraway”\r\n- “attends more on forwarding tokens than backward tokens” -> “forward tokens”?",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "##########################################################################\r\nReasons for score: \r\n \r\nOverall, my score is marginally below than acceptance threshold.",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "\", \r\nhowever I can see that on the left subfigure \"Rank group 8\"  leads to a higher performance drop than \"Rank group 7\" which \r\nis exactly what the authors wanted to avoid in the first place.",
+    "labels": [
+      "Presentation",
+      "Result"
+    ]
+  },
+  {
+    "text": "Such shaped rewards look different than the kinds of regularizers and auxiliary losses used in non-multi-step games, and perhaps the PPO experience buffer observation will be useful for people who use such experience buffers in other studies.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "It would be better to verify on more multilingual tasks, e.g., XGLUE and Xtreme.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "Again, dynamic curricula that are trained on the fly would be a more practical approach, as they don't require pre-training.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "It would be better if we are allowed to find a balance between speed and performance according to our demand.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "The authors claim that it could be because some questions could be unanswerable given the supporting information.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "- The authors claim that “circumventing the necessity to change the model structure.”, but the proposed method requires to change the decoder, and manipulate the parameter sharing pattern.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "What about sequence recovery or perplexity on the \"middle\" sequence?",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "- The paper starts with the motivation that \"Revising and editing are a central part of the human creative workflow, with most original content being developed not in a single iteration, but in many iterations with each more refined than the last\".",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "It seems like GLUE benchmark is used, yet most of the tasks (like SST) are relatively shorter sequences.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "The authors have conducted experiments both qualitatively and quantitatively for performance evaluation.",
+    "labels": [
+      "Evaluation",
+      "Experiment"
+    ]
+  },
+  {
+    "text": "Some other concerns:\r\n\r\n(6) At the end of the related works, the authors wrote \"In video represented as sequence of images,...., e.g though average pooling, resulting in potential loss of information\".",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "- The experiments in this paper are not enough, and miss some important baselines.",
+    "labels": [
+      "Comparison",
+      "Experiment"
+    ]
+  },
+  {
+    "text": "- Some model-generated examples would provide more insight.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "If caption quality stayed the same but listener choice accuracy increased then that would indicate the improvement is really due to the speaker's model of the listener.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "BSG at least showed the strength of using distributions to represent words by showing that different samples could constitute different word senses/meanings.",
+    "labels": [
+      "Comparison",
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "e.g.,\r\nIn the abstract, performances -> performance; remain -> remains; does not only improves -> does not only improve;\r\nIn the second paragraph of page 2, incorporate -> incorporates; combine -> combinesl\r\nIn Footnote 5, avalable -> available.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Typos:\r\n- synthesis -> synthesise\r\n- DeepHOLZero -> DeepHOL\r\n- wrong bold number in Figure 3",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "This again makes the numbers here hard to compare with for other researchers and methods.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Taking the performance jump from 1 to 2 prototypes on SCAN as potential for further jumps, why restrict to n=2?",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "Finally, I think that this work would strongly benefit from a study of the computational cost of the approach in the main core of the paper.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The gains are actually not very consistent in the Tables and the mean accuracy does not tell the full story.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "I think the paper would benefit from some analysis of the differences in the word embeddings learnt by a general lookup table learning model in comparison with the word embeddings learnt by this model.",
+    "labels": [
+      "Analysis",
+      "Comparison",
+      "Methodology",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "In my opinion, while the paper is well-written, it’s quite bloated and there is a lot of repetition.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The basic idea is to treat conditional statements as hints for facts about the program state that should hold at a given program point.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "In Table 1, it is strange that CLIP's performance using 400M images is close to the InfoNCE baselines trained on 3M images, on the GOI dataset.",
+    "labels": [
+      "Data/Task",
+      "Result"
+    ]
+  },
+  {
+    "text": "Lack of comparison with some classic and latest methods, such as MiniGPT4, mPLUG-Owl, LLAVA-1.5, Qianwen-VL, etc.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "While the paper emphasized the DE version's superior exploration over the GA, a deeper analysis would be beneficial.",
+    "labels": [
+      "Analysis"
+    ]
+  },
+  {
+    "text": "- Secondly, this main result depends on the worst-case coefficient, which is also unclear to me.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "As such, providing new tools to stabilize the training dynamics is of significant interest to the community.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Second, the adversarial training does not include re-sample the masked tokens, which may be a strong signal in adverbial training.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The paper is well-written\r\n1.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Cons:\r\n    - I think the authors want to make an explicit connection to counterfactuals as understood in the causality community.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "--------------------------------------- Minor Issues -------------------------------------------\r\n\r\n3) Many writing problems could be found in this paper.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The problem itself; tackling the semantic compositionality of self-attention, is a very important problem, and I like the part that authors described it as an inductive bias as a model perspective.",
+    "labels": [
+      "Methodology",
+      "Significance"
+    ]
+  },
+  {
+    "text": "This paper proposes a formal framework to compare position embeddings (PEs) and presents an empirical study comparing variants of absolute position embeddings (APEs) and relative position embeddings (RPEs) on three properties: 1) monotonicity, 2) translation invariance, and 3) symmetry and evaluates their performance on classification (GLUE) and span prediction tasks (SQUAD).",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "### The rationality of the proposed evaluation paradigm and metrics is questionable.",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "Furthermore, they show that minimizing the L2 distance between the English training sentences and their MT translation into the rest of languages, which does not explicitly use any labels in the foreign languages and is presented as a way of performing cross-lingual knowledge distillation, also performs better than zero-shot transferring a regular model fine-tuned in English.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "(2) The paper explores an interesting direction of learning fine-grained medical visual representations for medical image understanding.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Novel Focus: The paper tackles the \"question awareness\" in LLMs, exploring their ability to discern between open-ended and non-open-ended questions.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The objects are taken from shape net with relatively realistic shapes, but neither the appearance of objects (textures, shadows) nor the relative arrangement of objects is realistic.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "That goal here would be to compare if this approach results in performance drop due to infilling or not, and if so how much.",
+    "labels": [
+      "Comparison",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "This paper proposes a method to adapt a pretrained BERT model from English to another languages with a limited time/GPU budget.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "In the paper, policy $\\pi_\\text{il}$ is modeled as GPT-2, and policy $\\pi_\\text{inv-dy}$ is modeled as DRRN.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Even though true, I think, this argument doesn't hold in the context of recent progress in NLP for problems like dialog modeling, where the action space of generating responses is even larger.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Also no training errors are reported, does your method can be seen as a regularizer, i.e. is training objective closer to valid objective when n grows?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The observation that transferring activation is faster than offloading weights in LLMs is interesting.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "For the ablation study summarized in Table 3, why is the test partition (not the dev partition) of AVSBench-S4 used?",
+    "labels": [
+      "Ablation"
+    ]
+  },
+  {
+    "text": "* The authors correctly exclude the `any` annotations produced by the TypeScript compiler.",
+    "labels": [
+      "Methodology",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "This appears to be a ragbag of existing and known models: Transformer [Vaswani et al., 2017], Tree Transformer [Sun et al., 2020], and Memory Augmentation [Cornia et al., 2020].",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "It is better to provide some quantitative evaluation on SeqPATE on these settings.",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "The generality of the proposed method is not well-studied, as the experiments are only performed on top of RoBERTa.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Missing references:\r\n- Please cite the IMDb dataset: \"Maas, Andrew, et al. - Prior work building on Gardner et al.",
+    "labels": [
+      "Data/Task",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "The authors state at several occasions, that isolated measures on the method show better performance.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "Pros:\r\n\r\n- Experiments clearly show that, using the proposed method, stronger pre-trained English embedding leads to stronger bilingual language model and thus to better performances for downstream foreign tasks.",
+    "labels": [
+      "Experiment",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "**Suggestions:**\r\n* The paper claims to attain 2.2% higher performance compared to a full fine-tuned BERT large model (abstract line 16).",
+    "labels": [
+      "Comparison",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "The caption of Table 1 implies that both columns are evaluations based on the “ART” test set.",
+    "labels": [
+      "Data/Task",
+      "Evaluation",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "* I’m confused about why the performance difference in Table 4 between original LayoutLM and BROS is larger than that in Table 1.",
+    "labels": [
+      "Presentation",
+      "Result"
+    ]
+  },
+  {
+    "text": "The issue here is conflating factuality with grounding in a database.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "- Besides the main results, the paper also proposes a simple update on training loss, contrastive loss, which improved the model behavior.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "How crucial are the choices of optimizer and other specific hyperparameters?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "-\tThe authors integrate spatial information into the attention mechanism as a pair-wise bias term, which is reasonable.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Please also include qualitative topics analysis of unigram words?",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "For example, does it make any assumptions?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "But you cannot be allowed to make obvious errors.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "A metric that correlates more with other metrics is a better metric?",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "- It seems like the optimal value of $k$ in vote-*k* would depend on the number of instances in the unlabeled set that changes with the tasks.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "Since these are environments where existing exploration methods are developed, we can have a better understanding of how exactly XTX compares to other exploration algorithms, rather than the existing text-base game agent without directed exploration.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Please point out my misunderstanding directly.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "This paper proposes a new intent-aware contrastive learning objective to leverage gold and pseudo intents and improves intent classification performance compared to baselines.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "Also, experiments and analysis design are focused on $|C|$.",
+    "labels": [
+      "Analysis",
+      "Experiment"
+    ]
+  },
+  {
+    "text": "_ The introduction and the Conclusions are inconsistent:\r\n\"we evaluate LSTMs using GloVe embeddings, BERT, and baseline models\" vs \"we take an English pretrained BERT off-the-shelf and fine-tune it with a scrambled English dataset\"\r\n\r\n\r\n_table 4 is shown on page 6, but referenced on page 8.",
+    "labels": [
+      "Presentation",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "For example, please refer to Tani's pioneering works.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "I have a mental model of what is going on here (that we are training the ToM listener to mimic the actual listener, whenever we actually get listener choices), but I'm not sure if this is actually happening as I found this section difficult to parse.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Maybe plot log of ABX error rate or something, to pull apart the different layers?",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "It is nontrivial to gather the data as it involves hooking into the Lean's compilation process.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "Beyond this, other (comparatively minor) writing issues include insufficient discussion of related work, incorrect citations, and unusual choice of content in the body.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "- Fig 5 indicates that different models perform similarly across tasks, despite GPT.",
+    "labels": [
+      "Comparison",
+      "Result"
+    ]
+  },
+  {
+    "text": "(2) The new proposed model in this paper has achieved better results than the previous work in many tasks on MSMARCO.",
+    "labels": [
+      "Data/Task",
+      "Methodology",
+      "Related Work",
+      "Result"
+    ]
+  },
+  {
+    "text": "Where does “rank” come from, is this taken from the sense ranks in WordNet?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "What is \"ideal\" here?",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "This paper presents a thorough process that covers everything from gathering character profiles to refining LLMs using those profiles.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Some theoretical and empirical evidence is shown for the learning effect.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "On top, document vectors are computed by averaging topic word embeddings.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "* The term ‘unknown entities’ is confusing, because it can also refer to entities not covered by KB.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "They evaluate their approach on 3 semantic parsing datasets (GEO, ATIS, and OVERNIGHT), and show that their reranker can further improve the performance of the base generator.",
+    "labels": [
+      "Data/Task",
+      "Evaluation",
+      "Result"
+    ]
+  },
+  {
+    "text": "The authors mention in page 3 that \\ell_1 regularisation did not work in their preliminary experiments.",
+    "labels": [
+      "Experiment",
+      "Result"
+    ]
+  },
+  {
+    "text": "The problem addressed has high practical value: it tries to make large pre-trained language model more accessible to a range of NLP tasks.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "This paper proposes a new Reuse and Reduce with Dynamic weight Diffusion (R2D2) layer as an alternative to feed-forward layers in neural networks.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Maybe given their experience, the authors could hand-design useful general-purpose PEs?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Table 2 shows that the multi-task objective improves results from 24 to 25.23, but the settings of other architecture details increase performance from  25.23 to 27.87.",
+    "labels": [
+      "Result"
+    ]
+  },
+  {
+    "text": "It's interesting to see that CRF has the best precision but the transformer models have much better recall --- this is useful for building applications where one is more important than the other.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Figure 4: How is it different from what one would obtain with ProtBert?",
+    "labels": [
+      "Comparison",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "It seems that the number of the parameters is much more than those public ones.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "To test this, an ablation where LambdaNet does *not* split the identifiers, would provide a better comparison among the sequential representation of DeepTyper and the type constraint graph of LambdaNet.",
+    "labels": [
+      "Comparison",
+      "Experiment",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Firstly, I think that some important details are missing in the paper.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The analysis and conclusion on Adapters, Prefix Tuning, and LoRA are very penetrating.",
+    "labels": [
+      "Analysis"
+    ]
+  },
+  {
+    "text": "That seems backwards.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "In the experiments for the random set of n embeddings chosen to form a basis of the last layer’s input space---are there any insights on what those embeddings amount to semantically; and also what a ground truth selection of embeddings (e.g., that an oracle adversary would compute) should be?",
+    "labels": [
+      "Experiment",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Lines 22,23 need rephrasing.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "- Although the hypotheses are clearly stated and supported, they are not very surprising based on intuition.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation",
+      "Methodology",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "For example, does the runtimes of the baselines and DocHopper measured in a fair environment?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Does the paper address when these trends are expected to hold anywhere?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The vMF distribution is underexamined as tool for analyzing high-dimensional semantic vector distributions, and it is an excellent fit for the purposes of this project.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "A good part of unifying architectures for various tasks is that we can train the same set of parameters using different tasks.",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Alternatively they could use code published after June 2021 (the training data cutoff for the Codex davinci-002 model), dedupe it against the code data available upto June 2021 and use that as their test data.",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Experimental results show that the proposed method can achieve  110%+ training speedup without significant performance degradation.",
+    "labels": [
+      "Experiment",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "----- After rebuttal -----\r\n\r\nThe paper introduces the Dynamic Beam Sizing and Affective Reranking techniques as a means to enhance the appeal of generated sentences.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "How much weight does the new task get in this mixture?",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "Weaknesses: \r\n- I like the analysis on measuring how different methods rank examples.",
+    "labels": [
+      "Analysis",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Mathematical developments of PABI are given for these cases, and experiments show that PABI is nicely positively correlated with the relative improvement that comes with various methods for integrating incidental supervision signal (including one which is developed as a side note by the authors).",
+    "labels": [
+      "Experiment"
+    ]
+  },
+  {
+    "text": "Please be more clear.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The proposed method shows consistent performance improvement on the three benchmark datasets for referring expression comprehension.",
+    "labels": [
+      "Data/Task",
+      "Result"
+    ]
+  },
+  {
+    "text": "The author introduce a novel method in the form of mixture-of-supernets, blending the mixture-of-experts method to refine the weight-sharing mechanism, which is a novel step in neural architecture search.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The two tasks; OR and IBR, seem to be very limited settings to evaluate how self-play operates with data supervision.",
+    "labels": [
+      "Data/Task",
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "(2)  I would like to see, in the experiment part, some new experimental results and conclusions in terms of the four summarised properties, which are key contributions the authors claimed.",
+    "labels": [
+      "Experiment",
+      "Result"
+    ]
+  },
+  {
+    "text": "If there are multiple prompts then how does one ensure that there are dedicated prompts for each task?",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Introduction paragraph 2: When introducing end2end models, there is a lack of citations of recent e2e models including DAMD, SimpleTOD, SOLOIST, etc.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "However, a comparison with those methods is currently not provided.",
+    "labels": [
+      "Comparison",
+      "Related Work"
+    ]
+  },
+  {
+    "text": "It would be better to add more discussion on why it can still be considered to be adapted.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "I feel like the right notion of unpredictable should consider some kind of online learning scenario, such as prequential prediction.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "### Minor weaknesses (easily fixable suggestions for improvement -- 1 content page left for improvements):\r\n\r\n- Some plots seem to be a very small, and may be enlarged to use the 9th page.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Update after author response:\r\n\r\nThe author response is much appreciated.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "* The approach is straightforward and seems to improve over the pattern-verbalizer approach.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "That being said, there is obviously still differences between transformer-XL and the proposed methods.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "I will suggest the authors discuss the implications and possible shortcomings of such an approach when dealing with natural (and potentially long) sequences of text.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Also, some additional experiments need to be added in order to better justify its claims.",
+    "labels": [
+      "Experiment",
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "If the authors would like to compare the number of additional parameters of DeFo with CoOp and CLIP-adapter, I think it may be very helpful for us to comprehensively evaluate and compare these methods.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Formal languages results: Can you explain the higher difference in cross entropy, for all models and languages, on the shorter (but in train range) sequences?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "For evaluation part, one important ablation study is missing: the number of steps T for message passing.",
+    "labels": [
+      "Ablation",
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "- The paper is generally well written, with clear explanations on the main aspects and a good balance between quantitative evaluation and qualitative examples.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Evaluation",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Is it because some of the words case these false positive results?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "- Talk more about data.",
+    "labels": [
+      "Data/Task",
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "Taxonomy induction based on a collaboratively built knowledge repository.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "Hence most of the parameters are used for just the two languages while mBERT uses the parameters for 104 languages.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "It would be great to take the time to explain this example in a self-contained way.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "in many cases, Wikipedia edits and code edits may not be just stylistic edits required for improving sentence formation.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "If so please quantify variance.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "Li and Jurafsky, EMNLP 2015 Topical Word Embeddings.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "However, the designed specific neural network does not support the claimed binding-unbinding theory very well.",
+    "labels": [
+      "Theory"
+    ]
+  },
+  {
+    "text": "Rules may be \"outdated\" because they are inefficient for certain languages with reams of available data and scads of phenomena that don't fit.",
+    "labels": [
+      "Data/Task",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "For example, Figure 4 validates Assumption 4.1 (log-partition function is roughly quadratic in theta), and Table 1 shows many real tasks are approximately “natural”.",
+    "labels": [
+      "Data/Task",
+      "Intuition/Justification/Motivation/Validation",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "However, I cannot find proof of these statements in the material shown.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Strength:\r\n- The results are good for greedy decoding\r\n- The method is well motivated and well explained\r\n- The analysis regarding Unlikelihood Training is interesting\r\n\r\nWeaknesses\r\n-  The results shown do not make proper comparisons across models, baselines, and hyperaparameters over all tasks.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "I will discuss my concerns one-by-one in detail:\r\n- Most importantly, the evaluation is confusing.",
+    "labels": [
+      "Evaluation"
+    ]
+  },
+  {
+    "text": "A more holistic approach, considering other factors influencing NMT performance, could have provided a rounded perspective.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "How Gaussian blurring can prevent that problem?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Similarly, it is not entirely clear what HTML-T5 produces: Figure-3 indicates \"HTML-snippets\", but the paper mentions multiple times that it \"summarizes\" HTML pages (so it should produce a summary?",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "This paper adopted the BERT-large, which is not fair to directly compare to the works adopting the base version.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "A modified version of MLM is proposed, which has been shown with a smaller gradient variance than the standard MLM.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "My main concern of the paper is that the proposed method doesn’t show a significant improvement compared to other existing methods in Table 1 lower part.",
+    "labels": [
+      "Comparison",
+      "Result"
+    ]
+  },
+  {
+    "text": "Missing important relevant references.",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "If the reward is computed on the partial generated sequence, how is it actually implemented?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "In fact, the authors use a smaller set of admissible actions in order to collect these trajectories in the first place - this seems to not be in line with the goal of solving the large action space problem.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "- The paper does not consider any baselines.",
+    "labels": [
+      "Comparison"
+    ]
+  },
+  {
+    "text": "The author(s) conducted extensive and detailed experiments, encompassing different model sizes, data scales, and evaluation metrics (which is very important).",
+    "labels": [
+      "Data/Task",
+      "Evaluation",
+      "Experiment",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Seems entity prediction gives a lot of information to create rules.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Eq.3: why can we simply average forget gates?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Intuitively, what are the expected benefits of the proposed method compared to existing methods?",
+    "labels": [
+      "Comparison"
+    ]
+  },
+  {
+    "text": "A key result is Figure 2f and the associated correlations, which show strong correlation between the PABI scores and true performance improvements, this could perhaps be higlighted or emphasized more.",
+    "labels": [
+      "Presentation",
+      "Result"
+    ]
+  },
+  {
+    "text": "Does this give us something other than interpretability (which we obtain due to the sparse bottleneck)?",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "I think you should consider different tasks in your experiments to increase the chance of significant improvements.",
+    "labels": [
+      "Data/Task",
+      "Experiment",
+      "Result"
+    ]
+  },
+  {
+    "text": "I also read the original gSCAN paper but they didn't use this term at all.",
+    "labels": [
+      "Comparison",
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation"
+    ]
+  },
+  {
+    "text": "Examples selected or model prediction?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The authors use the same setting found during hyper-parameter tuning.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The experiments reveal that the first three factors, but not language, promote systematic generalization.",
+    "labels": [
+      "Experiment",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The paper presents a method for statically learning code invariants from source code using a variant of transformers.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The authors motivate their consideration\r\nby citing Rosinski's work, in which he showed children pictures of\r\nvarious objects with correct and incorrect labels, where the children\r\nwere specifically tasked with labeling the image (and not the\r\ntext).",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "- Strengths: The paper is well organized and clearly written.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The idea is given the lower and upper bound on the hidden state at previous layer, compute the new bound by propagating the bounding box around the hidden state at previous layer.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "(external environmental pressure)\r\n\r\n2.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "### Strengths\r\n* The proposed training method is simple and easy to implement.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "It would help to clarify when what you predict is a guard, a precondition, an invariant, or something else.",
+    "labels": [
+      "Presentation",
+      "Result"
+    ]
+  },
+  {
+    "text": "- Enable collaborative editing for generating text as shown in Table 4.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Let me know if I was wrong.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "It is suggested to see whether such correlations can be identified in the current training framework or the OntoProtein can help solve the incompleteness.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Testing the outputs with datasets extracted from the same word aligners is not valid.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "* (quality) The paper does not argue (either empically or rhetorically) whether the diverse choices used in re-ranking are diverse enough for re-ranking to be very meaningful.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "The accompanying experiments are informative and supportive of the main theoretical claims.",
+    "labels": [
+      "Experiment"
+    ]
+  },
+  {
+    "text": "(I realise the dataset already exists and was presented elsewhere, but this might be worth a footnote).",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "For instance, I would loved to know: a) what were some of the top challenges - scientific, linguistic, administrative, political and logistic - that you faced during this project?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "But it would be interesting to see if a model trained on alpha-NLI, and fine-tuned or multi-tasked on NLI entailment, does better on NLI entailment (i.e., is there transfer from alpha-NLI to entailment NLI?).",
+    "labels": [
+      "Experiment"
+    ]
+  },
+  {
+    "text": "- Using “concept” to stand in for verbs and nouns is somewhat confusing.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Presentation"
+    ]
+  },
+  {
+    "text": "The distantly supervised model shows moderate performance in fact duration prediction, showing there is a large room for improvement, which can encourage more research in this area.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "I would imagine that having these images during the real-time inference makes the inference very slow, about which I cannot find any time estimation from the paper.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "- The experiments don't include baselines that use multilingual language models as encoders.",
+    "labels": [
+      "Comparison",
+      "Experiment"
+    ]
+  },
+  {
+    "text": "For example, in order to (partially) compile a program, does it require all the variable types to be correct in that part?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Taking the standard deviation over the deviations measured on different folds of the data would be better measure of uncertainty.",
+    "labels": [
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "The current notation has too much overloading and variability.",
+    "labels": [
+      "Presentation"
+    ]
+  },
+  {
+    "text": "I do like this kind of simple but insightful result with enough empirical observations and discussions.",
+    "labels": [
+      "Definition/Description/Detail/Discussion/Explanation/Interpretation",
+      "Result"
+    ]
+  },
+  {
+    "text": "Are the entries normalized globally?",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "Again, what is the source for the training?",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "When generating outputs with let's say a smaller model like T5-large, where the accuracy will not be that high, the model outputs cannot be used to train them as most of the time, the answers will be incorrect.",
+    "labels": [
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "Then again, as a non-native speaker of English, my own native langauge certainly has taken the back seat in my head... either way it might be good to elaborate a little on this idea or just leave it out.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "That would still be incremental as you can never wrap around by more than 1 in any given update.",
+    "labels": [
+      "no_aspect"
+    ]
+  },
+  {
+    "text": "There is no comparision with very obvious method of building memory bank using existing keywords extraction methods as the main purpose of this paper is preparing a set of tokens that would be helpful for answer.",
+    "labels": [
+      "Comparison",
+      "Methodology"
+    ]
+  },
+  {
+    "text": "The in-domain results presented in shows that the proposed model surpassed other approaches in few-shot settings while out-of-domain evaluation reveals models trained on CORE outperform the in-domain models trained on FewRel.",
+    "labels": [
+      "Comparison",
+      "Data/Task",
+      "Methodology",
+      "Result"
+    ]
+  },
+  {
+    "text": "This paper suggestsan intermediate training regime that can be used between pretraining and the end-task finetuning.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "Lack of a clear motivation.",
+    "labels": [
+      "Intuition/Justification/Motivation/Validation"
+    ]
+  },
+  {
+    "text": "The new collection represents an important contribution to the community given that: 1) there are few datasets of this type, 2) other datasets are smaller and 3) this dataset contains explanations about how to obtain the answer.",
+    "labels": [
+      "Contribution",
+      "Data/Task"
+    ]
+  },
+  {
+    "text": "The method is extensively documented.",
+    "labels": [
+      "Methodology"
+    ]
+  },
+  {
+    "text": "\"Optimizing Exponent Bias for Sub-8bit Floating-Point Inference of Fine-tuned Transformers.\"",
+    "labels": [
+      "Related Work"
+    ]
+  },
+  {
+    "text": "The dataset seems, from the given details, useful.",
+    "labels": [
+      "Data/Task"
+    ]
+  }
+]
