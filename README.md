@@ -13,16 +13,36 @@ The raw data and calculated data can be obtained from here (We will provide it a
 ## Directory structure
 
 <pre>
-NovBench                                    Root directory
-├── code                                    Code for processing and experiment
-│   ├── data_process                        Code for data processing
-│   ├── LLM_novelty_generate                Code for novelty generate experiment
-│   │   ├── API_model_zero.py                  Code for 
-│   ├── Novelty_sentence_review             Code for experiment
-│   │   ├── LLM4nov_sentence.py                Code for
-│   ├── comment_evaluate.py                    Code for evaluate the novelty assessment generation
-│   ├── human_sample.py                        Code for human evaluation sample selection
-├── data                                    Dataset for experiment
+NovBench                                      Root directory
+├── code                                      Code for processing and experiment
+│   ├── data_process                          Code for data processing
+│   │   ├── COLING_Paper_process.py           Code for processing COLING data
+│   │   ├── data2exps.py                      Code for processing final data
+│   │   ├── EMNLP_data_process.py             Code for processing EMNLP data
+│   │   ├── EMNLP_introduction_data_save.py   Code for processing EMNLP data
+│   │   ├── output_format.py                  Code for processing EMNLP data
+│   │   ├── rev_inrto_nov_identification.py   Code for processing EMNLP data
+│   ├── LLM_novelty_generate                  Code for novelty generate experiment
+│   │   ├── API_model_zero.py                 Code for Closed-source LLMs to generate novelty assessment
+│   │   ├── API_model_few.py                  Code for Closed-source LLMs to generate novelty assessment
+│   │   ├── API_model_rag.py                  Code for Closed-source LLMs to generate novelty assessment
+│   │   ├── CycleReviewer_zero.py             Code for CycleReviewer to generate novelty assessment
+│   │   ├── CycleReviewer_few.py              Code for CycleReviewer LLMs to generate novelty assessment
+│   │   ├── CycleReviewer_rag.py              Code for CycleReviewer LLMs to generate novelty assessment
+│   │   ├── Deep_review_zero.py               Code for Deepreviewer to generate novelty assessment
+│   │   ├── Deep_review_few.py                Code for Deepreviewer LLMs to generate novelty assessment
+│   │   ├── Deep_review_rag.py                Code for Deepreviewer LLMs to generate novelty assessment
+│   │   ├── SEA_zero.py                       Code for SEA-S and SEA-E to generate novelty assessment
+│   │   ├── SEA_few.py                        Code for SEA-S and SEA-E to generate novelty assessment
+│   │   ├── SEA_rag.py                        Code for SEA-S and SEA-E to generate novelty assessment
+│   │   ├── zero_shot.py                      Code for Open-source LLMs to generate novelty assessment
+│   │   ├── few_shot.py                       Code for Open-source LLMs to generate novelty assessment
+│   │   ├── RAG_prompt.py                     Code for Open-source LLMs to generate novelty assessment
+│   ├── Novelty_sentence_review               Code for experiment
+│   │   ├── LLM4nov_sentence.py               Code for
+│   ├── comment_evaluate.py                   Code for evaluate the novelty assessment generation
+│   ├── human_sample.py                       Code for human evaluation sample selection
+├── data                                      Dataset for experiment
 │
 └── README.md
 
