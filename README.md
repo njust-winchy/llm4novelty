@@ -42,6 +42,7 @@ System environment is set up according to the following configuration:
 - openai==1.53.0
 - sentence-transformers==3.4.1
 - ai_researcher
+- scientific-information-change
 ## Acknowledgement
 
 The datasets we use come from Dycke et al.（2023）(https://github.com/UKPLab/nlpeer)
