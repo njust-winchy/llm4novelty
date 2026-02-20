@@ -1,0 +1,502 @@
+[
+    {
+        "first_sentence": "This paper is about Adaptive Language-guided Multimodal Transformer, which incorporates an Adaptive Hyper-modality Learning module to learn an irrelevance/conflict-suppressing representation from visual and audio features under the guidance of language features at different scales for multimodal sentiment analysis task. ",
+        "next_sentence": "The main contributions of the paper are: Proposed a novel multimodal sentiment analysis method, namely Adaptive Language-guided Multimodal Transformer, and explored a novel Adaptive Hyper-modality Learning module for representation learning. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper presents a novel approach to Multimodal Sentiment Analysis (MSA) by introducing the Adaptive Language-guided Multimodal Transformer (ALMT). ",
+        "next_sentence": "The primary problem addressed by this paper is the potential sentiment-irrelevant and conflicting information across different modalities (language, video, and audio) that may hinder the performance of MSA. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This work proposes Adaptive Language-guided Multimodal Transformer (ALMT) to better model sentiment cues for robust Multimodal Sentiment Analysis (MSA). ",
+        "next_sentence": "ALMT consists of three major components, i.e., modality embedding, adaptive hyper-modality learning, and multimodal fusion. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The authors combine keyphrase extraction (of present keyphrases) and generation (of absent keyphrases) in a unified setting. ",
+        "next_sentence": "Unlike prior methods, the authors motivate the use of contrastive learning (rather than sequence labeling) for extraction (using the contextualized encoder representations from BART) combined with the MLE generation loss (for absent keyphrase generation) in a multi-task manner. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The topic of this paper is about approaches for data- and compute efficiency. ",
+        "next_sentence": "\nThe main contributions of this paper are as follows:  (1)\tThis paper presents a contrastive learning framework to extract and generate keyphrases by building context-aware phrase-level representations. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper introduces an interesting approach towards the tasks of keyphrase extraction-generation. ",
+        "next_sentence": "The framework designed by the author comprises of a multi-task model and a reranker model. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper contributes a large benchmark of citation text generation unifying four structurally different previous datasets (see Figure 2). ",
+        "next_sentence": "The authors provide an evaluation and analysis kit for both quantitative and qualitative evaluation on this task including a novel measure on discursive behavior of citation text generation mechanisms based on KL divergence between source corpora and generated text intent and composition classification. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "In this research, CITEBENCH is introduced as a comprehensive benchmark for citation text generation, consolidating diverse datasets and facilitating consistent evaluation of citation text generation models across various task designs and domains. ",
+        "next_sentence": "By employing this novel benchmark, the authors thoroughly examine the performance of several robust baselines, assessing their adaptability across different datasets. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "# Paper Summary ",
+        "next_sentence": "The paper introduces a novel dataset for the task of Citation Text Generation of scientific documents. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "In this research article, the authors introduce a novel approach, referred to as VLIS, aimed at mitigating two prevalent issues associated with the comprehension capabilities of current visual language models (VLMs). ",
+        "next_sentence": "The first problem arises when VLMs fail to identify entities in certain scenarios, while the second problem stems from the over-reliance of VLMs on image context, which subsequently results in numerous unsuccessful cases.\n",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper introduces Visual-Language models as Importance Sampling weights (VLIS), a novel framework designed to combine the visual conditioning capability of vision-language models (VLMs) with the language understanding of unimodal text-only language models without further training. ",
+        "next_sentence": "The main contributions of the paper are: 1. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes to combine the visual conditioning capability of vision-language models with the language understanding of unimodal text-only language models without further training. ",
+        "next_sentence": "Concretely, VLIS extracts pointwise mutual information of each image and text from a visual-language model and uses the value as an importance sampling weight to adjust the token likelihood from a text-only model. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper is about avoiding forced anticipations during training a simultaneous machine translation (SiMT) model. ",
+        "next_sentence": "Based on the conventional training of SiMT, this paper proposes to add a decoder (tailor) module which is trained on a combined target of the non-anticipatory reference and the ground truth. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper addresses the problem of finding optimal training references for simultaneous machine translation (SiMT) models under varying latency constraints. ",
+        "next_sentence": "The key insight is that using the full ground truth translation as the training target is suboptimal, as it forces premature anticipations at low latency and degrades quality at high latency.\n",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper presents a novel approach to synthesizing high-quality pseudo-references tailored to a given latency by employing an additional Non-Autoregressive Translation (NAT) module. ",
+        "next_sentence": "The authors use Reinforcement Learning to jointly optimize the translation model and the NAT module, resulting in clear advantages in the BLEU-AL curves across different datasets and policies. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes to provide a tailored reference for the SiMT models trained at different latency varies. ",
+        "next_sentence": "The tailored reference aims to avoid forced anticipations and maintain faithfulness to ground-truth. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper works on improving the simultaneous translation task, where the authors take the direction of generating pseudo references. ",
+        "next_sentence": "Specifically, the authors proposed a CTC-based pseudo-reference generator. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper addresses a key difficulty in training simultaneous translation models: the fact that reference translations may have a significantly different word order from the source, forcing the model to guess when translating with low latency. ",
+        "next_sentence": "It introduces a new non-autoregressive decoder to generate a custom paraphrase of the target during training to address this. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper introduces a method aimed at addressing the issue of training a low-latency translation model while avoiding ground truth anticipations. ",
+        "next_sentence": "It proposes to generate a tailored reference to accommodate the expected latency associated with the simultaneous machine translation (SiMT) problem. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper constructs multi-lingual MCKRG dataset MCK-Dialog and proposes a new model MCK-T5 to flexibly integrate multiple knowledge sources into dialogue generation. ",
+        "next_sentence": "Specifically, the new method use commonsense knowledge in other languages to enhance the current dialogue generation. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper proposes the new task of multilingual commonsense knowledge-based dialogue response generation. ",
+        "next_sentence": "The authors argue that commonsense knowledge is effective in improving dialogue response generation by reducing non-informative and factually incorrect generations. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper is the first to utilize multi-lingual commonsense knowledge for enhancing dialogue generation. ",
+        "next_sentence": "It constructs a dataset in 7 languages through translation, and proposes a novel baseline model MCK-T5 based on mT5. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "# Summary ",
+        "next_sentence": "This is a dataset paper that discusses the step-wise reasoning to solving math problems. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper produces a novel dataset of 3k math tutoring conversations, collected by having teachers interact with a LLM. ",
+        "next_sentence": " Once the data is collected, the authors benchmark several baseline approaches, finding fine-tuning approaches perform better. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The main contributions of this paper are the introduction of a novel framework for the creation of semi-synthetic dialogue datasets, wherein genuine experts collaborate with LLMs to emulate plausible students. ",
+        "next_sentence": "Furthermore, a comprehensive tutoring dataset consisting of 3,000 dialogues is built based on the framework. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposed a dataset of 3k one-to-one teacher-student tutoring dialogues grounded in multi-step math reasoning problems. ",
+        "next_sentence": "The dataset is collected under the WOZ framework, where the human teachers are paired with LLM students to generate dialogues. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper presents a method, dubbed \"COMPOSITION\", towards the improvement of compositional generalization and specifically, the disentanglement of the information (i.e., the keys and the values) passed between the encoder and the decoder in the transformer sequence-to-sequence model. ",
+        "next_sentence": " ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "In this paper, the authors proposed method COMPOSITION to improve the compositional generalization capability of transformers. ",
+        "next_sentence": "The main idea is inspired by the findings that bottom layers of transformer contains more syntactic information while the top layers contain more semantic information. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes a modification of the Transformer architecture, so as to allow keys and queries in decoder source attention sublayers to be redefined as weighted sums of encoder sublayers. ",
+        "next_sentence": "\nTo motivate this modification, the authors frame their experiments with respect to the task of compositional generalization. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes COMPOSITION, a method that learns to compose representations from different layers of encoder, as a way to mitigate the issue of entangled syntactic and semantic problem in seq2seq models. ",
+        "next_sentence": "The proposed method introduces a composed layer to generate keys and values for each decoder layer. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper investigates LM attention heads, memory values, and the vectors dynamically created and recalled by the models while processing a given input. ",
+        "next_sentence": "The authors further develop a technique to visualize the forward pass of GPTs as an interactive flow graph. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper introduces a visualisation tool that creates a flow graph of different hidden states within GPT2 by projecting them to the Language Model head, a process called logit lenses. ",
+        "next_sentence": "The paper goes one step further than previous work by not just projecting the hidden state at the end of each attention block but rather doing it even at the head level by looking at head-specific dimensions when projecting to the LM head, albeit this part was a bit unclear. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "- *Contribution 1:* This work studies the information flow in a GPT model by looking at the attention module using an existing method, LogitLens. ",
+        "next_sentence": " ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This work focuses on addressing the threat of data leakage and contamination in closed-source task data caused by the widespread use of text obtained through general web crawling for model training. ",
+        "next_sentence": "The authors envisioned specific scenarios and proposed three different countermeasures. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper discusses the problem of data contamination when it comes to model evaluation. ",
+        "next_sentence": "\nSpecifically, the authors consider scenarios where: ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The research article focuses on enhancing the existing Net Zero Tracker's capability to algorithmically assess the sustainability targets (reduction and net zero goals) of corporations and nations. ",
+        "next_sentence": "To accomplish this, the authors present a labeled dataset, fine-tune a language model known as ClimateBERT-NetZero, and aim to make this trained model publicly available.\n",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The major contribution of this paper is the proposed dataset.\n",
+        "next_sentence": "Net-zero (\"net zero\" GHG emissions)  claims by firms and countries have been on the rise recently, but are sometimes pointed to as greenwashing. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "In order to detect and assess the net zero and reduction targets, this paper introduces a classification model named ClimateBERT-NetZero, with ClimateBERT as the base model. ",
+        "next_sentence": "This paper also introduces a dataset containing 3.5k text samples labeled by Net-Zero/Reduction/No Target as the dataset ClimateBERT finetuned on. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper studies a significant research area by examining the performance of state-of-the-art Language Model Models (LLMs), focusing on ChatGPT, in the context of mental health analysis. ",
+        "next_sentence": "The authors thoroughly investigated the interpretability of these LLMs and emotional reasoning abilities across 11 datasets encompassing five distinct tasks. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This work aims to use LLMs for Mental Health Analysis. ",
+        "next_sentence": "It employs LLMs to label source texts and provide explanations. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper addresses the application of large language models (LLMs) like ChatGPT for mental health analysis. ",
+        "next_sentence": "It seeks to improve upon limitations in previous studies, such as insufficient evaluations, lack of robust prompting strategies, and lack of exploration into the explainability of LLMs.\n",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "In this paper, the authors study the impact and use of LLM on mental health tasks (identifying mental health disorder and cause/factor detection of mental health conditions). ",
+        "next_sentence": "The authors provide detailed study on how they constructed their prompts and how they enhanced the prompts to generate better explanations of why the model predicted certain condition. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This work examines the ability of GPT-3.5 to translate paragraph-level literary texts versus sentence-level literary text. ",
+        "next_sentence": "Literary texts pose many unique challenges to translators. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "paper is about comparing performance of LLM-based translation system on literary work. ",
+        "next_sentence": " Authors compare sentence level translation (with no context), sentence level translation with paragraph level context and finally paragraph level translations. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper explores how well GPT-3.5 translates literary paragraphs in the few-shot setting (using ICL) in 18 language pairs with varied morphological aspects. ",
+        "next_sentence": " ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes the first technique for creating an end-to-end multilingual entity linker (MEL), mReFinED based on monolingual version ReFinED. ",
+        "next_sentence": "Prior MELs only attempted the linking started with the from identified mentions. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The text explores the concept of end-to-end multilingual entity linking (MEL), a procedure that pinpoints multilingual entity mentions and associates them with the relevant entity IDs within a knowledge base. ",
+        "next_sentence": "Current approaches circumvent the entity mention detection stage, attributable to the scarcity of high-quality multilingual training datasets. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "In this paper, the authors proposed a framework for end-to-end multilingual entity linking (MEL). ",
+        "next_sentence": "The framework, named mREFinED, consists of a bootstrapping mention detection, an entity typing, an entity description, an entity disambiguation, and combine all in a multi-task training objective. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper explores the problem of writing effective rebuttals in peer reviews. ",
+        "next_sentence": "The authors propose the use of Jiu-Jitsu argumentation, inspired by the Jiu-Jitsu combat system, as a strategy for generating rebuttals that align with an opponent's underlying beliefs. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes a novel task regarding attitude and theme-guided rebuttal generation. ",
+        "next_sentence": "To achieve the goal, the authors adapt the established concepts from peer review analysis and develop domain-specific models. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The authors propose the task of peer-review rebuttal generation using attitude roots and themes, motivated by an argumentation style inspired by the Jiu-Jitsu combat strategy. ",
+        "next_sentence": "The key contributions are  1. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes the AERA framework, which is meant to help both score student answers and generate score rationales. ",
+        "next_sentence": "The framework consists of three steps: (1) prompt ChatGPT to generate rationales, (2) refine the generation step to enhance the rationale quality, and (3) fine-tune a smaller LLM using the generated rationales. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper introduces a novel framework - Automated Explainable Student Response Assessment (AERA), for automated student answer assessment, which utilizes ChatGPT, a cutting-edge large language model, for both scoring student answers and generating rationales. ",
+        "next_sentence": "The approach entails prompting ChatGPT with different templates to obtain rationales, which are then refined to align with standard marking guidelines in cases of inconsistency. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper develops a distillation method for Short Answer Grading by fine-tuning a smaller model on ChatGPT explanations. ",
+        "next_sentence": "The method consists of three steps: (1) generating rationales from ChatGPT, (2) refining those explanations, and (3) fine-tuning a Longformer T5 model on the refined explanations (and labels). ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper provides an original method to create event types that can be applied to downstream applications. ",
+        "next_sentence": "Previous studies focused only on clustering, and therefore the results were difficult to apply in other contexts.\n",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper targets the problem of event ontology completion with the help of clustering, type naming, and hierarchy extension. ",
+        "next_sentence": "The clustering is based on the neighborhood contrastive clustering, in context learning based naming and hierarchy aware linking. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "SUMMARY: The paper extends the task of Event Type Induction (ETI), which aims at assigning untyped event mentions to clusters denoting new event types, into a newly proposed task of Event Ontology Completion (EOC), which also includes naming new types and inserting them into an existing (incomplete) event hierarchy/ontology. ",
+        "next_sentence": "After formulating the EOC task, authors propose a new neural method \"HierarchicAL STructure EvOlution Network (HALTON)\" to perform the three clustering/naming/hierarchy expansion sub-tasks, by (i) combining different loss functions to learn effective event mention representations for clustering, (ii) leveraging a LLM (T5) for naming, and (iii) introducing a similarity-based greedy approach for hierarchy expansion. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "1. ",
+        "next_sentence": "The development of UPET, an uncertainty-aware and parameter-efficient self-training framework. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes a new self-training method that uses an uncertainty-aware machine learning model, specifically Bayesian neural networks (BNNs). ",
+        "next_sentence": "The method first exploits the model's confidence and uncertainty to select reliable samples from unlabeled data. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The authors present an adaptation of the teacher-student paradigm to allow training on massive amounts of unlabelled data in a semi-supervised fashion. ",
+        "next_sentence": "This work specifically focuses on natural language understanding (NLU) but they posit their approach could be used for a number of other tasks. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes a new technique for cross-lingual abusive language detection. ",
+        "next_sentence": "It exploits large available datasets in English to perform cross-lingual transfer across seven completely different languages from English and across three domains. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposed to use data augmentation and continual pre-training for domain adaptation to improve cross-lingual abusive language detection. ",
+        "next_sentence": "Specifically: ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper focuses on cross-lingual abusive language detection and addresses the challenge of resource scarcity in target languages. ",
+        "next_sentence": "The main contributions are: ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The authors presented a training-free, simple and effective method through antonym and entity swap to create unanswerable data in the QA dataset. ",
+        "next_sentence": "In addition, the proposed method achieved higher readability and relatedness than existing methods and higher final performance. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "A simple yet effective approach is introduced to generate unanswerable questions for extractive question answering systems. ",
+        "next_sentence": "Drawing inspiration from human-written unanswerable questions, the method involves performing antonym and entity swaps on answerable questions, thus producing unanswerable variants. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This study publishes a data-enhanced approach to generate unanswerable questions to increase the performance of reading comprehension models. ",
+        "next_sentence": "And this method has proven to promote the performance of the reading comprehension model when evaluated on the development set of the SQuAD 2.0 dataset. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper discusses the approach of augmenting the question with entity and antonym swap with respect to the context to make it unanswerable. ",
+        "next_sentence": "The author proposed the training-free, lightweighted approach to improve the performance of encoder-only models like BERT to identify unanswerable questions. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The authors study different bias existing in the Conversational Recommendation System, and they propose a data augmentation technique based on generative language model. ",
+        "next_sentence": "Through extensive experiments on two benchmark datasets, they show a consistent improvement of CRS techniques with our data augmentation approaches and offer additional insights on addressing multiple newly formulated biases. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper investigates selection and popularity biases within the feedback loop of developing a conversational recommendation system. ",
+        "next_sentence": "Considering the influence of contextual user-system interactions and the varying user intent during a conversation, the authors extend the formalisation of popularity bias and explore the Cross-Episode and user intent-oriented popularity effects. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper conducts a comprehensive investigation into potential biases and effects affecting the performance of CRS models and proposes several evaluating metrics to quantify the biases for CRS. ",
+        "next_sentence": "It also proposes a data augmentation strategy for improving CRS models, conducting experiments over two datasets ReDial and TGReDial with four different base models. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The article discusses the effects of different sub-word segmentation algorithms to transformer-based language models.\n",
+        "next_sentence": "The authors compare three segmentation algorithms, namely BPE, Morfessor and StateMorph, using  two morphologically complex languages, Finnish and Russian. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper explores the impact of segmentation algorithms on language models. ",
+        "next_sentence": "Experiments were conducted on two morphologically rich languages, Finnish and Russian. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The authors introduce LLM4CS and conversation query rewriting and response aggregation framework, which improves the performance of conversational information retrieval by a wide margin. ",
+        "next_sentence": "\nThe authors perform an extensive and systematic evaluation on three widely used conversational search benchmarks, CAsT-19, CAsT-20, and CAsT-21, demonstrating how their methodology consistently outperforms previous SOTA by a wide margin,  ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper aims to enhance the performance of conversational search by employing a Large Language Model (LLM) to provide additional information in the form of rewritten queries and responses.\n",
+        "next_sentence": "The main contributions of this paper lie in the domain of NLP engineering experiments. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The main contribution of this paper lies in enhancing the effectiveness of Conversational Search through the use of a novel framework based on Language Model Leveraging (LLM). ",
+        "next_sentence": "The framework is designed to robustly represent user intents by generating multiple queries and hypothetical responses. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes a novel semi-supervised method to fully leverage commercial news for automated financial risk. ",
+        "next_sentence": "Specifically, it designs a semantic-topological iteration network (STIN) for multi-label risk diffusion, which mainly contains a content-label-topology aggregation mechanism to capture the interaction of STIN. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper focuses on the financial risk detection task, which is to predict the risk label distribution of the target news piece. ",
+        "next_sentence": "The proposed framework, STINMatch, is a text-graph joint modeling framework to exploit both the text information and the graph (news-company) information for better risk label diffusion. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes improvements for utilizing NEKG in financial risk detection. ",
+        "next_sentence": "First, it proposes a semi-supervised text-graph joint learning framework that fully exploits semantic information and topological associations. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper focuses on detecting risks associated with information from news (10 risks in particular). ",
+        "next_sentence": "The proposed method (STINMatch) is a semi-supervised learning framework that uses semantic information and topological association (via a News-Enterprise Knowledge Graph aka NEKG) to evaluate the propagation of news risk and enterprise risk. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper presents an automatic method to evaluate LLM's attributions, which link the generated text to the evidence texts. ",
+        "next_sentence": "Automatic attribution evaluation is treated as a three-way classification task, with labels being: attributable, extrapolatory, and contradictory. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper presents an approach to automatically verify if a statement generated by a LLM is supported by the cited reference. ",
+        "next_sentence": "The authors formulate the problem as a classification task, wherein a <question, statement, reference> pair is labeled as “attributable”,”extrapolatory” or “contradictory”.\n",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper explores the problem of attribution with LLMs by defining the task as having the classes attributable, contradictory, and extrapolatory, and testing out whether finetuned and prompted language models can succeed at classification.\n",
+        "next_sentence": "The paper proposes to repurpose data from related tasks (NLI, fact-checking, QA) through mapping samples to the proposed problem formulation.\n",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This article presents two new approaches for the automatic evaluation of LM's ability to provide answers, which are supported by external references. ",
+        "next_sentence": "The article presents a new classification of LM attribution, composed of 3 classes, and explains how data is collected.\n",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper focuses on the combination of LLMs and CRSs in the context of product recommendations. ",
+        "next_sentence": "Authors approach the topic from two viewpoints --- either \"LLMs assisting CRSs\", or \"CRSs assisting LLMs\" --- and across four sub-tasks implied in recommendation-making: intent understanding, preference elicitation, product recommendation, and response generation. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper explores the collaboration of conversational recommender systems (CRSs) and large language models (LLMs) in E-commerce pre-sales dialogues. ",
+        "next_sentence": "The paper proposes two methods of collaboration: CRS assisting LLM and LLM assisting CRS. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This work proposes to combine a large language model (LLM) and a conversational recommender system (CRS) for precise recommendation. ",
+        "next_sentence": "Experiments show the effectiveness of this kind of collaboration. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "In this paper, the authors study the effectiveness of combing large language model with conversational recommendation system in e-commerce pre-sales dialogues. ",
+        "next_sentence": "They propose two collaboration methods, i.e., conversational recommender systems assisting large language model and large language model assisting conversational recommender systems. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper seeks to discover whether the taste properties of objects, in addition to their physical qualities, can be be recovered from large language models. ",
+        "next_sentence": "The question is interesting because earlier models did not show this ability due to reporting bias in the data. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The goal of this paper is to determine whether LLMs encode conceptual spaces. ",
+        "next_sentence": "Conceptual spaces (a theory associated with Gardenfors) are a type of distributional semantics but one in which the dimensions of the vectors correspond to symbolic perceptual primitives (e.g., hue and brightness for color). ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper probes the question: can high-quality conceptual space representations be distilled from LLMs? ",
+        "next_sentence": "\nThe authors examine an unexplored space of taste and add the physical properties space. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The authors propose an adversarial benchmark suite, ROBBIE, that analyzes the performance of LLMs across 12 demographic axes and 6 datasets. ",
+        "next_sentence": "It also compares different mitigation techniques and shows their effectiveness. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper brings a study of toxicity and undesired bias in recent generative language models. ",
+        "next_sentence": "It proposes a wide variety of demographic axes and identifies the discriminative features for them in the previous datasets. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper focuses on robust bias evaluation of large language models. ",
+        "next_sentence": "They analyze 5 model families of LLMs across 12 demographic axes and 6 bias and toxicity datasets. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper proposes a method for solving analogy questions by considering paths between concepts and relation embeddings distilled from large language models. ",
+        "next_sentence": "To do so, they first learn a binary classifier that predicts a confidence score for a relation embedding RelBERT to use it as a threshold for predicting links between concepts. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper first discusses the pros and cons of using vectors, instead of a fixed set of relation types, to represent the relations between entities. ",
+        "next_sentence": " ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper describes an approach for identifying properties shared by concepts in a large vocabulary. ",
+        "next_sentence": "\nIt is based on a bi-encoder for retrieving properties satisfied by each concept and a joint encoder (fine-tuned DeBERTa) for deciding which properties are satisfied. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper is devoted to a strategy for identifying what different concepts, from a potentially large concept vocabulary, have in common with others. ",
+        "next_sentence": "They want to associate each concept with a set of properties and use a bi-encoder model. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The work introduces a strategy for identifying what different concepts have in common by analysing their shared properties. ",
+        "next_sentence": "Specifically, two BERT models are fine-tuned to learn concepts and properties embedding separately. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "This paper aims to leverage machine reading comprehension techniques and improve the automatic psychological evaluation system for children mindreading. ",
+        "next_sentence": "In the existing automatic evaluation systems, the model only takes the question and answer as the input, leaving the context unused. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    },
+    {
+        "first_sentence": "The paper proposes a system for automating the Child Mindreading Test. ",
+        "next_sentence": "\nTraditional systems could only handle a single type of test. ",
+        "result": "\"I am not certain about the exact continuation.\""
+    }
+]
