@@ -1,11 +1,12 @@
 # NovBench: Evaluating Large Language Models on Academic Paper Novelty Assessment
 
-## Overview
 
-**Dataset and source code for paper "NovBench: Evaluating Large Language Models on Academic Paper Novelty Assessment".**<br>
+
+**Dataset and source code for paper "NovBench: Evaluating Large Language Models on Academic Paper Novelty Assessment".**
 
 The pipeline for constructing NovBench as follow.<br>
 <img width="2700" height="851" alt="Figure1" src="https://github.com/user-attachments/assets/71399c44-0998-4029-a430-08d77bb1b743" />
+## Overview
 - We introducing a structured benchmark for novelty evaluation. This resource, which incorporates the' textual evaluations of the novelty dimension of the reviewers alongside the novelty descriptions of the paper introductions, constitutes a critical resource for future research. <br>
 - We propose a four-dimensional, interpretable, and semantics-aware framework for evaluating LLM-generated novelty review text. This metric suite surpasses the limitations of traditional lexical overlap metrics (e.g., ROUGE/BLEU) and more effectively captures the quality of "novelty" evaluation in free-form text. <br>
 - We conduct systematic evaluation and benchmarking of current general LLMs (e.g., GPT-5, Gemini-2.5-flash) and specialized LLMs on the novelty evaluation task. Based on this benchmark, we further analyze the gap between LLM-generated evaluations and human judgments, providing an in-depth understanding of these models' advantages and limitations in identifying and articulating novelty. <br>
