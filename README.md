@@ -13,7 +13,7 @@ The pipeline for constructing NovBench as follow.<br>
 - We conduct a comprehensive empirical analysis that identifies key factors for generating high-quality, highly interpretable novelty review text, and reveals important behavioral patterns of LLMs in novelty evaluation, thus directing the future development of more reliable AI-assisted peer review.
 
 ## Dataset
-The raw data and calculated data can be obtained from here (We will provide it after the peer review is completed).<br>
+The raw data and calculated data can be obtained from here (https://drive.google.com/drive/folders/1VZTCcUngoBa4jC3skKgbcefyotuHY9Zc?usp=drive_link).<br>
 ## Directory structure
 
 <pre>
