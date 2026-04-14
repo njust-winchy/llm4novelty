@@ -83,6 +83,8 @@ The datasets we used come from Yuan et al.（2022）(https://github.com/neulab/R
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
 
+>Wenqing Wu, Yi Zhao, Yuzhuo Wang, Siyou Li, Juexi Shao, Yunfei Long\*, Chengzhi Zhang\*. NovBench: Evaluating Large Language Models on Academic Paper Novelty Assessment. In: ***Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL2026)***, San Diego, United States, 2026. [[doi]]()  [[arXiv]](https://arxiv.org/abs/2604.11543)  [[Dataset & Source Code]](https://github.com/njust-winchy/llm4novelty)
+
 
 
 
