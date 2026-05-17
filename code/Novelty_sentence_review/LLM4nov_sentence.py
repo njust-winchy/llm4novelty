@@ -108,9 +108,9 @@ Answer with: Yes or No."""
 
 def gpt4task(prompt, model):
     client = OpenAI(
-        base_url='https://api.kksj.org/v1',
+        base_url='',
         # required but ignored
-        api_key='sk-d1ywZ0OuvHU3aHYzGFxe888FaIuJe9uYsfkJVKngnrd0tkQe',
+        api_key='',
     )
     chat_completion = client.chat.completions.create(
         messages=[
