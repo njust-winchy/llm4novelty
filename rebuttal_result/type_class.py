@@ -6,9 +6,9 @@
 #
 # def gpt4task(prompt):
 #     client = OpenAI(
-#         base_url='https://api.kksj.org/v1',
+#         base_url='',
 #         # required but ignored
-#         api_key='sk-yqwpNJSFxMqyEDjaJockxdXNQBkCMiihZdL2DPlCF9kCGWGY',
+#         api_key='',
 #     )
 #     chat_completion = client.chat.completions.create(
 #         messages=[
